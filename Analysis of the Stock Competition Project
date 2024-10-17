@@ -1,0 +1,50 @@
+In-depth Analysis of the Stock Competition Project
+Overview
+This project was developed to predict stock price movements for a selected set of stocks—$ONCO, $CNEY, $TNXP, $APLD, and $KTTA—during a time of increased market volatility due to the upcoming 2024 USA presidential elections. The aim was to leverage sentiment data from social media, as well as other publicly available data sources, to forecast stock price increases using machine learning models. This analysis explores the steps undertaken, the challenges encountered, and the models employed throughout the project.
+
+Project Goal
+The primary goal of this project was to build a time-series dataset by incorporating factors such as sentiment-based data, technical indicators, and macroeconomic factors, with the ultimate objective of predicting stock price movements. For simplification, a binary classifier was used to indicate whether a stock price would increase (class 1) or not (class 0) from the previous trading day. Various machine learning models were applied to determine the most accurate approach to this predictive task.
+
+Datasets Used
+A variety of datasets were merged to form the final dataset:
+
+Stock Price Data: This included historical stock prices such as open, high, low, close, and volume, providing essential features for the model.
+Sentiment Data: Sourced from social media platforms, this data provided insights into public sentiment surrounding each stock. Sentiment scores, including positive, negative, and neutral values, were incorporated.
+Technical Indicators: These included key metrics like MA50, MA200, RSI, and volatility, which are widely used in technical analysis.
+Macroeconomic Data: This dataset contained broader economic indicators such as interest rates, GDP, and unemployment rates to contextualize stock performance within the broader economic environment.
+Data Preprocessing
+The preprocessing stage was critical to ensuring data consistency. Several datasets were merged on the ‘date’ column to align sentiment data, stock price data, technical indicators, and macroeconomic factors. Missing data was handled by filling in with mean values where appropriate. The target variable was engineered to indicate whether the stock price increased (1) or did not increase (0) on a given day, which became the basis for binary classification.
+
+Models Applied
+1. Logistic Regression
+Logistic regression was the first model applied to the dataset. Though simple, this model provided a good baseline for comparison. However, it faced difficulties with class imbalance—most instances belonged to class 0 (no price increase), resulting in lower recall for class 1 (price increase).
+
+2. Random Forest Classifier
+Next, the random forest classifier was employed to improve prediction performance. This ensemble method was more robust to the complexities in the data and demonstrated better overall accuracy. However, like logistic regression, it struggled with class imbalance, leading to lower performance in predicting price increases (class 1).
+
+3. Gradient Boosting Classifier
+The gradient boosting classifier was also tested to provide a more nuanced model by combining multiple weak learners. While this model offered slightly better results than logistic regression, it still faced challenges with the minority class (price increase).
+
+Class 1 Definition
+In this project, Class 1 refers to instances where there was a stock price increase from one trading day to the next. Conversely, Class 0 represents instances where the stock price did not increase or decreased. The ultimate goal was to correctly predict instances of class 1, given the volatility and uncertainty surrounding stock prices during the lead-up to the elections.
+
+Model Performance
+Each model was evaluated based on its accuracy, precision, recall, and F1-score:
+
+Logistic Regression: Accuracy hovered around 84%, but recall for class 1 was low, meaning the model struggled to correctly predict price increases.
+Random Forest Classifier: This model performed better overall, with an accuracy of 91%. However, the recall for class 1 remained limited, indicating that the model favored class 0.
+Gradient Boosting Classifier: Similar to random forest, this model achieved an accuracy of 91%, and while precision for class 1 improved slightly, it still struggled with recall, highlighting the difficulty of handling imbalanced data.
+Addressing Class Imbalance
+To address the imbalance between class 0 (no price increase) and class 1 (price increase), weighting schemes were applied. This improved the recall for class 1, but performance remained constrained by the limited number of instances where price increases occurred. Future iterations could explore more advanced techniques for dealing with class imbalance, such as oversampling, undersampling, or synthetic data generation.
+
+Conclusion
+This project successfully demonstrated the power of machine learning in predicting stock price movements based on sentiment, technical, and macroeconomic factors. While the models performed well overall, the primary challenge remained in accurately predicting stock price increases (class 1). The logistic regression model provided a good baseline, but random forest and gradient boosting models offered better performance. 
+Class imbalance played a significant role in limiting recall for class 1, and further work is needed to address this issue.
+
+Future Work
+To improve the model further, several strategies could be explored:
+
+Data Augmentation: Adding more sentiment sources and expanding the social media dataset could provide richer insights.
+Feature Engineering: Incorporating additional technical indicators and financial ratios may provide a more comprehensive view of stock performance.
+Advanced Modeling: Exploring deep learning models, particularly LSTM networks, could help better capture time-series trends in stock price movements.
+This project lays the groundwork for using sentiment analysis and machine learning to predict stock price movements, with room for future enhancements in both data collection and modeling approaches.
