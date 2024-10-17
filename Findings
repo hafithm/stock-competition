@@ -1,0 +1,64 @@
+### In-depth Analysis of Findings on Stock Trends and Machine Learning Results
+
+The project focused on leveraging both financial and sentiment data to predict the price movements of a portfolio of volatile stocks, particularly ahead of the 2024 U.S. presidential elections. This report details the key findings from the data analysis and machine learning predictions.
+
+### Stock-Specific Data Insights
+
+#### 1. **$ONCO (OncoSec Medical)**
+
+- **Financial Trends**: The stock data for $ONCO revealed significant volatility, which is typical for biotech stocks, especially in the pre-election period where healthcare policies might impact these firms.
+- **Sentiment Data**: Social media discussions on platforms like Reddit showed a mix of positive and negative sentiments. Investors expressed cautious optimism about upcoming trials and potential breakthroughs in immunotherapy treatments.
+- **Findings**: The sentiment analysis for $ONCO showed that while many investors are bullish on the stock (sentiment scores slightly positive), actual price increases were not always aligned with the sentiment. This indicates that while investor sentiment was generally positive, external factors like clinical trials and policy uncertainties were still leading to unpredictable stock movements.
+
+#### 2. **$CNEY (CN Energy)**
+
+- **Financial Trends**: The data showed an upward trend in $CNEY prices during specific periods, likely driven by positive macroeconomic data and a favorable sentiment around the renewable energy sector.
+- **Sentiment Data**: Sentiment around $CNEY was mostly positive, as renewable energy stocks were trending favorably. The sentiment score was relatively high compared to other stocks in the portfolio.
+- **Findings**: The sentiment for $CNEY seemed to align more closely with the stock price increases. Positive sentiment about the future of renewable energy, government regulations, and policy shifts toward green energy provided support for the stock. The analysis indicated that when sentiment was positive, there was a greater likelihood of stock price increases.
+
+#### 3. **$TNXP (Tonix Pharmaceuticals)**
+
+- **Financial Trends**: Similar to $ONCO, $TNXP experienced volatility. Being a pharmaceutical company, external announcements related to drug trials and regulatory updates had a strong influence on stock price.
+- **Sentiment Data**: Sentiment scores for $TNXP were generally mixed. While some investors were hopeful due to clinical developments, others were cautious due to historical volatility.
+- **Findings**: The sentiment data did not consistently predict stock price movements. Many traders were speculative, and while there were positive discussions about potential breakthroughs, they did not consistently lead to price hikes. This indicates that investors' discussions were more speculative than backed by concrete financial developments.
+
+#### 4. **$APLD (Applied Digital)**
+
+- **Financial Trends**: $APLD had relatively consistent price trends compared to the other stocks in the portfolio. The stock displayed lower volatility and more predictable price behavior.
+- **Sentiment Data**: There were moderate positive sentiments around $APLD, especially around its role in blockchain and digital infrastructure, which gained investor attention.
+- **Findings**: The stock price increases were modest but fairly aligned with sentiment. Investors were particularly excited about digital transformation trends and blockchain technologies, which gave rise to positive sentiment. This stock had less erratic behavior compared to the pharmaceutical stocks, making the sentiment data more reliable in predicting its price movements.
+
+#### 5. **$KTTA (Pasithea Therapeutics)**
+
+- **Financial Trends**: $KTTA, as a small biotech company, showed substantial price swings. The stock's volatility was evident in both the financial and sentiment data.
+- **Sentiment Data**: Sentiment around $KTTA was positive at times, especially when news around experimental therapies or drug approvals surfaced.
+- **Findings**: Sentiment spikes correlated well with price increases, but like other biotech stocks, the speculative nature made it difficult to rely solely on sentiment for predictions. Investors were heavily influenced by news related to drug pipelines, and while sentiment was positive, stock price increases were often short-lived due to the high-risk nature of biotech.
+
+### Machine Learning Findings
+
+The goal of the project was to use machine learning models to predict whether there would be a price increase (class `1`) or not (class `0`) from the previous trading day.
+
+- **Logistic Regression Model**:
+  - **Accuracy**: 84.17%
+  - **Precision & Recall for Class 0 (No Price Increase)**: High precision (99%) and recall (83%) indicate that the model was very good at predicting when there would **not** be a price increase.
+  - **Precision & Recall for Class 1 (Price Increase)**: The recall was high (93%), but the precision was low (38%). This indicates that the model could catch most instances of price increases but struggled with false positives, misclassifying some cases as increases when they were not.
+
+- **Random Forest Model**:
+  - **Accuracy**: 90.64%
+  - **Precision & Recall for Class 0 (No Price Increase)**: The precision (92%) and recall (98%) were very high, meaning the model accurately predicted when there was no price increase.
+  - **Precision & Recall for Class 1 (Price Increase)**: The precision (57%) and recall (29%) were lower than desired, meaning the model struggled with predicting stock price increases accurately and was more conservative in predicting positive changes.
+
+### Overall Findings and Conclusion
+
+1. **Class Imbalance**: The models faced challenges due to the class imbalance between days when there was no price increase (class `0`) and when there was a price increase (class `1`). This led to models favoring the prediction of no price increases (class `0`) more often.
+   
+2. **Sentiment Data Influence**: The sentiment data, while helpful in some cases (like $CNEY and $APLD), did not always correlate well with stock price movements for more volatile stocks like $ONCO and $TNXP. This demonstrates that while sentiment analysis can be a useful tool, it should be complemented with other predictive factors, especially for biotech stocks where clinical data plays a key role.
+
+3. **Random Forest Outperformed Logistic Regression**: In this context, Random Forest was slightly better at capturing trends, with a higher overall accuracy. However, the model still struggled with correctly identifying days with price increases (class `1`), likely due to the volatile and speculative nature of some stocks.
+
+4. **Impact of External Factors**: For stocks like $TNXP and $ONCO, external factors such as clinical trials, FDA approvals, and policy changes seemed to override the influence of social media sentiment. This suggests that sentiment analysis alone is insufficient for biotech stocks and should be combined with more fundamental data like clinical trial updates.
+
+
+### Final Thoughts
+
+While the models performed reasonably well in predicting whether a price increase would occur, the complexity of stock price movements—particularly for volatile stocks—means that predictions should be used with caution. Combining sentiment data with other financial factors, and using more advanced modeling techniques, could yield more reliable results in future iterations.
