@@ -1,0 +1,2085 @@
+title,score,comments,created_utc,selftext,permalink,sentiment_score,sentiment_positive,sentiment_negative,sentiment_neutral
+The Great Wall and Wall Street: Become a Better Trader by Understanding the Perils of 🇨🇳 Chinese Companies on 🇺🇸 U.S. Exchanges,109,69,2024-05-13,"⚠️ *Attention all traders and holders of Chinese stocks:*  
+*You should read this if you don’t know what a VIE is. Sure, most of you will be repelled by the great wall of text here (so many words!), but you might want to keep this post nearby.*
+
+
+
+Hello.  
+You are aware that Wall Street’s bustling bazaar hosts a veritable Forbidden City of Chinese companies draped in ticker tape rather than silk.  
+Today, I will provide background and data on all allowed Chinese companies listed on three of the largest U.S. stock exchanges: New York Stock Exchange (NYSE), Nasdaq, and NYSE American.
+
+I should note that a bustling troupe of 26 national securities exchanges are registered with the SEC in the United States. Most are owned by the Nasdaq, NYSE, or the Chicago Board Options Exchange (CBOE).
+
+Nonetheless, based on data from the [World Federation of Exchanges](https://www.world-exchanges.org) as of August 2023, the NYSE and Nasdaq were the top two exchanges behemoths of the global financial stage, accounting for 42.4% of the total $110.2 trillion in valuation traded across 80 major global exchanges.
+
+
+
+🖼️ I had a photo of Wall Street to add here, but I'm only allowed to include one attachment.
+
+
+
+**2022 vs. 2023**
+
+According to the U.S.-China Economic and Security Review Commission, as of January 8, 2024, there were 265 Chinese companies listed on the three U.S. exchanges, with a total market capitalization of $848 billion.  
+That valuation is down from a year prior—January 9, 2023—when a slightly lower 252 Chinese companies were tracked, but they represented a total market capitalization of $1.03 trillion.
+
+Since January 2023, 24 Chinese companies have entered the spotlight of the three U.S. exchanges, raising $656 million in combined initial public offerings (IPOs). On the other hand, eleven Chinese companies have folded their tents and delisted.
+
+
+
+**China Securities Regulatory Commission**
+
+The American stock exchanges witnessed a springtime bloom of Chinese IPOs in the first quarter of 2023. However, this listing activity came to an abrupt halt as the clock struck March 31, 2023.
+
+Why?  
+The China Securities Regulatory Commission (CSRC) [implemented a revised approval process](https://www.reuters.com/markets/deals/china-publishes-offshore-listing-rules-2023-02-17/) for companies going public overseas.
+
+I won’t get into the details, but China has rules to cap foreign investment and ownership in sectors deemed strategic, such as technology.  
+In the past, those regulations have driven several Chinese firms to the legal gymnastics of a Variable Interest Entity (VIE) structure—a clever contrivance that allowed them to leapfrog domestic constraints.
+
+However, under the revised review mechanism, every company, regardless of its corporate ownership structure, must now bow before the [China Securities Regulatory Commission](http://www.csrc.gov.cn/csrc_en/index.shtml) (CSRC) to register its intent to list overseas.
+
+
+
+🖼️ I had a photo of the CSRC building to add here, but I'm only allowed to include one attachment.
+
+
+
+**The gatekeeper**
+
+Therefore, although the CSRC touted this regulation as a necessary measure for enforcing regulatory compliance and preventing fraud (which is true), it also helps regulators act as gatekeepers poised to block any proposed listing they deem poses a risk to their national security or jeopardizes China's national interests.
+
+This process is wide-ranging. For instance, it includes an evaluation of the company’s safeguards against disclosing what the Chinese Communist Party considers potential state secrets.  
+But we’re not talking about top-secret black-ops projects meant to be hidden from international oversight committees. No… any company that collects personal information on more than one million users requires stern data security review mechanisms for its cross-border data flows.
+
+For perspective, TikTok has over 150 million users in the U.S. alone and is not subject to the same scrutiny from the Western nations.
+
+Currently, the CSRC approval process is reportedly taking upward of six months.
+
+
+
+**Audit inspections and investigations in China**
+
+You’re probably unaware of the HFCAA, so let’s start there.
+
+The [Holding Foreign Companies Accountable Act of 2020](https://www.congress.gov/bill/116th-congress/senate-bill/945/text) (HFCAA) is a law that requires companies publicly listed on stock exchanges in the U.S. to disclose to the United States Securities and Exchange Commission (SEC) information on foreign jurisdictions that prevent the Public Company Accounting Oversight Board (PCAOB) from conducting inspections.
+
+That law laid down a stern ultimatum:  
+If Chinese authorities kept obstructing the Public Company Accounting Oversight Board (PCAOB) from inspecting audit firms in China or Hong Kong for three consecutive years, the companies audited by these entities would face a ban from the bustling arenas of the U.S. exchanges.
+
+Basically, either China allowed the PCAOB to inspect the audit firms, or the companies had to change to another auditing firm within three years.
+
+Then, as 2022 waned to its final days (literally, on December 29), President Joe Biden signed a [Consolidated Appropriations Act](https://www.congress.gov/bill/117th-congress/house-bill/2617/text), which contained a provision that will tighten the noose, shortening future timelines from three consecutive years to only two.
+
+
+
+**Once they looked under the rock**
+
+Finally allowed to conduct full investigations of audit firms in mainland China and Hong Kong after over a decade of obstruction, the PCAOB announced the findings of its first round of inspections in May 2023, identifying deficiencies in seven of eight audits conducted by the auditing firms KPMG Huazhen and PricewaterhouseCoopers (PwC) Hong Kong. [Audits of Chinese Companies Are Highly Deficient, U.S. Regulator Says](https://www.wsj.com/articles/audits-of-chinese-companies-are-highly-deficient-u-s-regulator-says-2da99766)
+
+On November 30, 2023, the [PCAOB announced fines](https://pcaobus.org/news-events/news-releases/news-release-detail/imposing-7-9-million-in-total-fines-pcaob-sanctions-three-china-based-firms-and-four-individuals-in-historic-settlements) against three audit firms in China, totaling $7.9 million for misconduct. For perspective, that number included the second and third-largest fines ever doled out by the PCAOB.
+
+Why were the fines so bad?
+
+
+
+**Those sneaky Chinese accountants**
+
+Imagine a gaggle of accountants in the far reaches of PwC China and Hong Kong applying for a U.S. auditing curriculum. But alas, these foreign accountants find the U.S. auditing training tests a trifle tedious, so someone came up with the answers and decided to pass them around like a secret note in a schoolroom.
+
+From 2018 to 2020, over 1,000 of these busy bees completed their U.S. auditing online exams by copying the answers from two unauthorized apps with a fervor that would make a gossip columnist blush.
+
+When confronted with the evidence, PwC China and PwC Hong Kong response: 🤷‍♂️
+
+And let me remind you, this happened late last year.  
+Both firms are expected to provide reasonable assurance that their personnel will act with integrity in connection with internal training and to report their compliance to the PCAOB within 150 days—April 2024.
+
+
+
+🖼️ I was planning on using an AI-generated image of Chinese accountants cheating, but I'm only allowed to include one attachment.
+
+
+
+**State-owned enterprises**
+
+According to the U.S.-China Economic and Security Review Commission, this graph represents the total market capitalization of Chinese companies listed in the three U.S. exchanges.
+
+
+
+[Market Capitalization of Listed Chinese Companies](https://preview.redd.it/e8m49xhhh90d1.png?width=2310&format=png&auto=webp&s=204c57b6b9f085aec53fd055753cfb2ee86a6035)
+
+
+
+The number of listed companies has stayed at around 260.  
+However, all Chinese state-owned enterprises (SOEs) have delisted themselves from U.S. exchanges, most of them soon after the PCAOB announced it had secured complete access to Chinese auditors’ records.
+
+
+
+**Variable Interest Entities (VIEs)**
+
+Most traders—and that means you—are unaware that 166 Chinese companies currently listed on the three major U.S. exchanges use a VIE structure.
+
+As of January 8, 2024, these companies have a market capitalization of $772 billion.  
+For perspective, that represents **91%** of the total market capitalization of all the Chinese firms listed on the three major U.S. exchanges.
+
+
+
+**What the hell is a VIE?**
+
+It is a complex corporate structure that grants shareholders contractual claims to control via an offshore shell company without transferring actual ownership in the company.
+
+A Variable Interest Entity (VIE) is a bit like a riverboat casino’s cleverest trick, allowing a company to sell its chips on a foreign table without ever letting the players hold the cards directly.
+
+A VIE is a structure used primarily by companies that wish to partake in the financial streams of another country (the U.S. exchanges) without breaking local laws (Chinese laws) that prevent full ownership.
+
+Remember, Chinese companies structured themselves as VIEs to circumvent China’s restrictions—not U.S. restrictions—on foreign ownership in industries the CCP deems sensitive.
+
+Therefore, when you hold stock in one of these Chinese companies, you’re not officially holding any actual ownership in the company. Because if you did, then that company could be breaking Chinese restrictive caps on foreign investment and ownership.
+
+That’s why they set up a façade, or a legal entity, that controls the business on paper, but the true power and profits are funneled back to the company pulling the strings.
+
+Granted, it’s not as shaky as asking a random stranger to hold your shares, but it is crafty, and you should be aware of the risks.
+
+
+
+**Wait. What are the risks?**
+
+You need to understand that there’s a shadow of *potential* risk looming. Potential.  
+Now, don't mistake me for the town crier of doom; I'm not proclaiming that the sky is falling on these shares. Nor am I declaring that disaster is certain for Chinese stocks.
+
+What I am pointing out, however, is the presence of a risk—a subtle beast that might just catch you off guard if you remain unaware.
+
+And let’s face it:  
+Most of you are completely oblivious to these issues.
+
+There are two sides here: 🇺🇸 & 🇨🇳
+
+
+
+🇺🇸
+
+Since July 2021, the SEC has imposed additional disclosure requirements for Chinese companies using a VIE to sell shares in the U.S. These requirements include greater transparency about the relationship between the VIE and its Chinese operating companies.
+
+In summary, the SEC aims to push VIEs toward the company behind them to offer more clarity on U.S. investor ownership in the Chinese operating company.
+
+
+
+🇨🇳
+
+On the other side, Chinese companies that list overseas using a VIE were not required to register their listings with the CSRC, as the VIE is not considered a Chinese company under China’s law.  
+This is the reason VIEs were used in the first place.
+
+However, as I mentioned earlier, after March 31, 2023, the CSRC established requirements for *all* new Chinese companies to register and receive permission before going public overseas—even those planning to use VIE structures.  
+That’s why there was a boom of Chinese IPOs *before* that deadline.
+
+Granted, on September 14, 2023, a Chinese auto insurance platform became the first company that received the elusive blessing of the CSRC to list, and it did so using a VIE arrangement, breaking the long, dry spell that had plagued Chinese IPOs when she listed on the Nasdaq four days later.
+
+However, even though VIEs received some sort of recognition from the CSRC, the VIE corporate structures still hold dubious legal status under China’s laws.  
+Remember, VIEs purpose is to avoid being considered a Chinese company under China’s laws.
+
+So… do you see the potential risk here?
+
+
+
+**Umm… No, I don’t get it.**
+
+Think about it.  
+Either country could potentially increase regulations for VIEs, but if the SEC forces them to be more transparent, the VIE would not be able to circumvent China’s restrictions.  
+That’s one risk.
+
+Also, at some point, China’s CSRC might question whether it’s appropriate to recognize a corporate structure that was created to circumvent its laws.
+
+Which leads me to this:  
+What’s keeping the CCP from deciding to start reigning in those VIEs?
+
+The answer is simple:  
+They’re not in a hurry to do so because if misfortune should befall, it’ll be the foreign investors who’ll see their assets deflated like a punctured balloon.
+
+
+
+🖼️ I would've added a nice image or two by now, to balance all the text and make this more appealing, but I'm only allowed to include one attachment.
+
+
+
+If a VIE-listed company goes private at a lower valuation, businesses fail, or there’s a valuation discrepancy, the enforceability of a VIE’s contractual arrangements is unproven in Chinese courts. With VIE-listed companies, foreign investors’ recourse in the Chinese legal system is as elusive as a catfish’s whisper.
+
+
+
+**Yeah, but that’s unlikely…**
+
+Sure. Of course, I’m not saying every Chinese stock will have these issues.  
+But it can happen. And it has happened.
+
+
+
+**The unlucky case of Luckin Coffee**
+
+Due to the lack of compliance with international audit inspections, Chinese corporate financial statements’ reliability for valuation and investment is not assured.
+
+Such is the case of Luckin Coffee.  
+In a bold bid to capture Wall Street’s hearts and wallets, Luckin Coffee showed up dressed in finery, flaunting alluring figures of revenue, operations, and bustling customer traffic.
+
+At her grand debut, the stock sashayed onto the Nasdaq at $17, swirling up a storm of interested buyers to the tune of [$561 million in capital](https://www.reuters.com/article/us-luckin-coffee-ipo/starbucks-china-challenger-luckin-raises-561-million-in-u-s-ipo-idUSKCN1SM2SH/).
+
+For a fleeting moment, Luckin shimmered like a star over the financial firmament, boasting a market capitalization that soared to a heady $12 billion, with shares peaking just over $50.
+
+Ah, but as the adage goes, *‘Truth will out.’*  
+And out it came—the revelation of those embroidered numbers caused the company's stock to plummet like a stone tossed from a bridge, leaving a wake of investor losses and culminating in a disgraceful delisting from Nasdaq 13 months after her debut.  
+[Luckin Coffee Drops Nasdaq Appeal; Shares to Be Delisted](https://www.wsj.com/articles/luckin-coffee-drops-nasdaq-appeal-shares-to-be-delisted-11593188282)
+
+  
+🖼️ I would've added an AI-generated image of a cup of Luckin Coffee jumping from a bridge, but I'm only allowed to include one attachment.
+
+
+
+**Well… but that won’t happen to me…**
+
+Uh-huh. On April 2, 2020, after announcing that employees—including its chief operating officer—falsified 2.2 billion yuan (about $310 million) in sales throughout 2019, Luckin's shares nosedived -80%.
+
+This is from one of you unluckin bastards:  
+[I've lost 240k on Luckin Coffee, all my life savings. Now I'm broke af.](https://www.reddit.com/r/wallstreetbets/comments/gveon3/ive_lost_240k_on_luckin_coffee_all_my_life/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+I’m sure many of you might reckon yourselves immune to a similar debacle since you think you’re smart enough to use stops to escape any runaway losses.  
+It's time to wake up and smell the Luckin coffee. Chinese news catalysts often strike like lightning at night, and the stops you set under the sun cannot shield you from storms that explode in the moonlight. Dumbass.
+
+
+
+**Chinese regulators can be mercurial**
+
+Even though the PCAOB is currently able to perform its oversight responsibilities, concerns remain around the possibility that Chinese regulators might backtrack, potentially clamping down once again on the PCAOB's ability to access audit firms and personnel across mainland China and Hong Kong.
+
+If that happens, the PCAOB can quickly declare a negative determination.  
+HOWEVER, this action would only start the countdown under the HFCAA, giving U.S.-listed Chinese companies a window of TWO years to secure services from an auditor in a compliant jurisdiction or face a trading ban. That’s it.
+
+Of course, within that time, Chinese regulators could agree once again to allow access to the PCAOB, thus resetting the two-year countdown without significant consequences.
+
+
+
+**What lurks in the shadows**
+
+Although the risk of PCAOB non-compliance looms over these financial engagements, it is the ghost of potentially misconstrued—or, let's say, creatively presented—earnings reports coming to light that should scare you most.  
+Or, on the flip side, present the biggest opportunity.
+
+I believe it is possible that there are several ghosts out there—ghastly financial figures dressed up a tad too finely—lingering in the shadows, unchecked and unchallenged.  
+If they’re found and unveiled under the harsh spotlight of scrutiny, the fallout would be immediate and severe, leaving investors scrambling.
+
+And if that happens, it’s not about diamond-holding through the plunge since the company might opt (or be forced) to delist from the U.S. exchanges.
+
+
+
+🖼️ I would've added an AI-generated image of an attractive young Chinese ghost woman, implying both the allure of Chinese stocks, but also the risk of getting closer. However, I'm only allowed to include one attachment.
+
+
+
+You need to understand a crucial concept.  
+Many traders believe that if a company messes up, plunges, and gets delisted, it means the company is basically over—dead.  
+But that’s not the case here. A delisting does not equal death.
+
+I mean, [Luckin Coffee](https://www.luckincoffee.com) is still out there, alive and kicking.
+
+>16,218 stores and counting, covering 240+ cities across China.
+
+You would think that a company like that would not be able to cheat on its balance sheet.  
+Yeah, just like you would think PwC China would notice 1,000 accountants cheated their way through the U.S. auditing curriculum.
+
+
+
+🖼️ I would've added an AI-generated image of a Chinese accountant dabbing like a boss for getting his cheated accounting diploma, but I'm only allowed to include one attachment.
+
+
+
+So… is it too far-fetched to believe more ghosts might come to light, now that the PCAOB can supervise the numbers?
+
+I mentioned a flip side since you could specialize in tracking everything the PCAOB does.  
+If you can get a whiff about increased auditing on a certain company, you might decide to play a short position in anticipation of a potential ghost coming to light.  
+Be warned, though, that it’s not as if they tweet out which companies they’re auditing.
+
+If I were to do it, I would research and join whatever digital saloon young Chinese ledger-keepers convene in. Perhaps I’d stumble upon a post by SumYungGuy or another pleading for advice on how to parley with the PCAOB Laowai making a fuss over his figures. The poor lad's in a pickle, you see, since he cheated the exam and doesn’t know squat.
+
+
+
+**Methodology**
+
+For the purposes of this table, a company is considered Chinese if:
+
+1. It has been identified as being from the PRC (the People's Republic of China) by the relevant stock exchange;
+2. It lists a PRC address as its principal executive office in filings with the SEC; or
+3. It has a majority of operations in the PRC, including a company structured offshore but whose value is ultimately tied through a relationship in the PRC.
+
+⚠️ *Some Chinese companies that use offshore corporate entities hide or do not identify their primary Chinese corporate domicile in their listing information. This complicates tracing, making it difficult to guarantee that this list captures all Chinese companies registered offshore.*
+
+I should also point out that this list does not include companies domiciled exclusively in Hong Kong or Macau.
+
+⚠️ *Remember, this list only considers Chinese companies listed on three of the largest U.S. stock exchanges: New York Stock Exchange (NYSE), Nasdaq, and NYSE American.*
+
+Oh, and btw, this isn’t a list I came up with.  
+This info was compiled by the [U.S.-China Economic and Security Review Commission](https://www.uscc.gov). It’s their methodology and list.
+
+Since the majority is a VIE, I’ve marked the ones that are *not* registered as a VIE with an asterisk (\*).  
+This is determined using the most recent annual report filed with the SEC.  
+A company is judged to have a VIE if:
+
+1. It explicitly describes using a VIE to conduct all or part of its business operations in China, or
+2. It describes a subsidiary in which it has no direct equity interest but relies on contractual arrangements to exercise control and receive economic benefits from its operations in China.
+
+⚠️ *For companies that have been listed for less than a year, information contained in the company’s most recently updated investment prospectus, as filed with the SEC, is used instead.*
+
+
+
+**Chinese companies listed on U.S. exchanges**
+
+Companies are arranged by the size of their current market capitalization.  
+All companies utilize a VIE corporate structure, except those marked with an asterisk (\*).
+
+BABA Alibaba Group Holding Limited  
+PDD Pinduoduo Inc.  
+NTES NetEase, Inc.  
+JD JD.com, Inc.  
+BIDU Baidu, Inc  
+TCOM Trip.com International, Ltd.  
+TME Tencent Music Entertainment Group  
+LI Li Auto  
+BEKE KE Holdings  
+BGNE BeiGene \*  
+ZTO ZTO Express (Cayman) Inc.  
+YUMC Yum China Holdings Inc.  
+EDU New Oriental Education & Technology Group, Inc.  
+HTHT H World Group Limited \*  
+NIO NIO Inc.  
+YMM Full Truck Alliance Co. Ltd  
+VIPS Vipshop Holdings Limited  
+TAL TAL Education Group  
+LEGN Legend Biotech \*  
+MNSO Miniso \*  
+BZ Kanzhun Limited  
+XPEV Xpeng  
+BILI Bilibili Inc.  
+IQ iQIYI, Inc.  
+HCM HUTCHMED (China) Limited \*  
+ATHM Autohome Inc.  
+QFIN Qifu Technology  
+RLX RLX Technology  
+LU Lufax  
+ATAT Atour Lifestyle Holdings \*  
+WB Weibo Corporation  
+ZLAB Zai Lab Limited \*  
+ZKH ZKH Group Ltd \*  
+YY JOYY Inc.  
+GOTU Gaotu Techedu, Inc.  
+MSC Studio City International Holdings Limited \*  
+GCT GigaCloud Technology Inc  
+GDS GDS Holdings Limited  
+ACMR ACM Research, Inc. \*  
+HOLI Hollysys Automation Technologies, Ltd. \*  
+FINV FinVolution Group  
+JKS JinkoSolar Holding Co., Ltd. \*  
+DQ Daqo New Energy Corp. \*  
+MOMO Hello Group Inc.  
+CSIQ Canadian Solar Inc. \*  
+EH Ehang  
+TUYA Tuya Inc.  
+NOAH Noah Holdings Ltd.  
+HUYA HUYA Inc.  
+KC Kingsoft Cloud  
+YALA Yalla \*
+
+These are only 51 of the 261 Chinese companies currently listed on the major U.S. exchanges to comply with rule three. I kept the market cap minimum at $750M to allow for some wiggle room.
+
+I mentioned earlier that the U.S.-China Economic and Security Review Commission had 265 tickers, but that was on January 8, 2024. Since then, three companies have been acquired, and the other one has voluntarily delisted.
+
+As you can confirm, the vast majority is structured as a VIE.
+
+
+
+I was going to include charts to illustrate how several Chinese stocks—aside from the ones with the biggest market caps—tend to display sudden rallies, followed by after-hours reversals.  
+It is important to recognize them, whether you want to capitalize on them, or avoid them entirely.  
+But I can't add any more attachments, so...
+
+Besides, it's unlikely that many of you have even read this far without images.
+
+  
+Have a good day.",/r/wallstreetbets/comments/1crb05i/the_great_wall_and_wall_street_become_a_better/,0.7906,0.259,0.0,0.741
+Asset Class Periodic Table,578,109,2024-03-01,,/r/wallstreetbets/comments/1b3rsot/asset_class_periodic_table/,0.3612,0.455,0.0,0.545
+"Most Anticipated Earnings Releases for the week beginning January 22th, 2024",402,484,2024-01-19,,/r/wallstreetbets/comments/19aobn7/most_anticipated_earnings_releases_for_the_week/,0.0,0.0,0.0,1.0
+"3 Penny stocks that may bring you to the promised land (maybe, nfa ofc) - Stocksy's Weekly DD",52,48,2024-09-26,"Hey everyone! Here are some notes from companies that I have been looking at this week. Good lord kraken has been climbinggg. ZOMD and BOLT both new mentions for me but they both look super solid. Hope this can be of value to anyone. Please feel free to comment any tickers you would like me to checkout! Cheers
+
+**ZOMD Technologies $ZOMD.V**
+
+Market Cap: 40M
+
+Company Overview:
+
+Zoomd Technologies provides digital marketing solutions focused on user acquisition, primarily in the mobile space. The company operates beyond the usual Google and Meta channels, offering clients access to a range of media sources. This gives advertisers flexibility and allows them to diversify their marketing efforts, all managed from one platform.
+
+**Highlights**
+
+Zoomd’s Q2 2024 results showed impressive growth, with revenue jumping by 58% compared to the same quarter last year. They brought in $13.98M in Q2 2024, up from $8.82M in Q2 2023. What stands out most is their net profit of $2.15M, a clear turnaround from the $785K loss they reported in the same period last year. This also makes it their fifth quarter in a row of profitability, which shows that their recent efforts to refocus the business are working.
+
+Cost control has been a big part of the story. They cut operating expenses by 21%, which helped boost their adjusted EBITDA to $3.03M, nearly 700% higher than last year. The company’s move to discontinue less profitable products and concentrate on core services has paid off.
+
+What caught my eye about Zoomd is how they’ve set themselves apart from the typical Google and Meta reliance. They give advertisers the flexibility to use a wider range of channels like SDK networks and programmatic ads, which opens up more options and control for their clients. This is why I see a lot of room for Zoomd to grow. As more advertisers look for ways to diversify and spread their marketing dollars beyond the big players, Zoomd is well-positioned to benefit from that shift
+
+On the client side, retention is solid. Over 90% of their top customers have stuck around for more than three years, which obviously shows that once companies start working with Zoomd, they see enough value to stay on board long-term.
+
+**Kraken Robotics Inc.  $KRKNF $PNG.V**
+
+Market Cap:  400M (Up 75% since first post)
+
+Company Overview:
+
+Kraken Robotics is a Canadian marine technology company specializing in advanced sonar and optical sensors, subsea batteries, and robotics for unmanned underwater vehicles. They serve both military and commercial sectors, offering solutions that include high-resolution imaging for defence, offshore energy, and subsea infrastructure monitoring.
+
+**Highlights**
+
+Kraken’s Q2 2024 results were impressive, with revenue climbing 67% to $22.8M compared to $13.7M in Q2 2023. The bulk of this growth came from product sales, which jumped 83%, thanks to continued demand for key offerings like their subsea batteries and KATFISH system.
+
+Kraken ended Q2 with $20.4M in cash, boosted by a $20M equity financing and $45M in new credit facilities. This solid financial foundation supports Kraken’s ambitious growth plans, including ramping up production and expanding into new markets, with projected 2024 revenue of $90M-$100M and ebitda of $18M-$24M.
+
+Kraken has been steadily building an impressive pipeline of contracts. They’ve recently secured more than $8M in subsea battery orders, along with an $8M acoustic corer project, and a $3.7M KATFISH-related order. These deals are part of a broader pipeline Kraken estimates to be worth over **$900M** in identified opportunities.
+
+Kraken has locked in some big, multi-year deals with major clients like NATO navies and the Canadian Navy. Their ability to keep key customers coming back, including large players in offshore energy, really shows how much trust there is in Kraken’s technology and the value they consistently deliver in both defence and commercial markets.
+
+Kraken just seems like a solid bet at this point. Some may find it a bit expensive, but if they hit their projected revenue of 90M-100M, that would be their fourth year in a row of nearly doubling their revenue. The company is just firing on all cylinders.
+
+**Bolt Metals Corp. $PCRCF $BOLT.CN**
+
+Market Cap: 4M
+
+Company Overview:
+
+Bolt Metals Corp. is a Canadian exploration company focused on securing and advancing key metals projects in North America. Their portfolio is centred on critical metals like antimony and copper.
+
+**Highlights**
+
+What I like about BOLT is that they have some super promising projects that are largely unexplored despite strong historical results.
+
+The New Britain Antimony and Gold Project in British Columbia, for example, spans over 2,400 hectares and has already shown high-grade samples, including **10.4% antimony, 9.7 g/t gold, and 2,358 g/t silver.** These numbers are impressive, but what’s even more intriguing is that the site remains mostly untouched when it comes to modern exploration.
+
+For those of you who have no idea what antimony is… don’t worry, I didn’t either. But it turns out that this critical metal has been experiencing a supply crunch, and the price has nearly doubled in 2024. China, which controls the majority of the world’s antimony production, has tightened exports, which has driven prices up dramatically. With barely any domestic companies exploring for antimony, this only scarcity boosts Bolt Metals’ position.
+
+Soap Gulch is their other promising asset in Bolt’s portfolio, with great potential for copper and zinc. Historical drilling has already delivered copper grades as high as 4.7%, along with solid results in zinc and gold. What makes this project even more exciting is the opportunity Bolt has to leverage existing data. They’ve got 5,000 meters of historical drill core that has never been sampled for copper. This is a huge advantage, as they can analyze this core without having to launch an expensive new drilling program, potentially saving them around CAD $3.4 million.
+
+On top of that, a 2018 airborne geophysics survey identified several untested anomalies, which are essentially indicators of subsurface structures that might contain additional mineral deposits. These anomalies suggest that there could be even more copper and zinc hidden beneath the surface, adding to the project’s untapped potential. If Bolt can confirm what the historical data hints at, Soap Gulch could become a valuable copper play in a strong market.
+
+PLUS, It looks like Bolt Metals is about to add another promising project to their portfolio with the Silver Switchback property. Early surface sampling has shown impressive results, with **1,975 g/t silver, 17.01% copper, and 0.48 g/t gold.** The property, has never been drilled, but the existing permit is valid until 2027, making it drill-ready too. Management is excited about this one and sees it as a key part of their growth plan, with a solid exploration program in the works to uncover more silver and copper. It could definitely be a strong addition to their portfolio.
+
+ALL OF THIS while still maintaining a strong cap structure. Bolt has a tight share structure with only 8.9M shares fully diluted and 42% insider ownership.
+
+**If you made it this far, thanks for reading! Keep in mind that none of this is financial advice and I highly suggest doing your own research before chucking your hard earned money into a stock you saw through a random dude on reddit.** ",/r/pennystocks/comments/1fq36hb/3_penny_stocks_that_may_bring_you_to_the_promised/,0.3612,0.128,0.0,0.872
+3 penny stocks that might help you achieve financial freedom (nfa ofc) -  Stocksy's Weekly DD,73,30,2024-09-19,"Hey! Here are some of the main stocks that I have been looking at this week and been updating my notes on. I hope these can be of value to anyone. These all have been looking really solid. As always please feel free to share any tickers you want me to checkout! Cheers
+
+  
+**Zedcor Inc. $ZDC.V**
+
+Market Cap: $180M (First mentioned at $70M)
+
+Company Overview:
+
+Zedcor Inc. specializes in providing advanced security solutions through their MobileyeZ towers, which have gained traction across multiple industries like construction, mining, and oil and gas. Their focus on AI-driven surveillance technology offers a cost-efficient alternative to traditional security methods.
+
+
+
+**Highlights**
+
+Zedcor’s Q2 2024 performance showed solid growth. Revenue rose by 20% QOQ, reaching $7.4M, with adjusted ebitda increasing by 42% to $2.7M. This shows that there is clearly strong demand for their MobileyeZ towers and a seemingly growing customer base.
+
+The company continues to execute its U.S. expansion, with operations now running in Texas and Denver, and plans for Phoenix by 2025. Their U.S. utilization rate is near **100%**, which is obviously another strong indicator of demand. While Canada remains a key market, the U.S. growth story is what really stands out here.
+
+They’ve also recently completed a $15M equity raise, which is being used to ramp up production and meet the growing demand for their products. With plans to hit 1,300-1,500 towers by year-end, they’re scaling rapidly to keep pace with customer demand.
+
+What makes Zedcor attractive is its recurring revenue model. About 88% of its income comes from recurring contracts, which gives the company stability in a market that typically sees high fluctuations. This provides a solid foundation for ongoing growth, especially as they expand their MobileyeZ tower fleet.
+
+Around 45% of the shares are held by management and directors.
+
+  
+
+
+**California Nanotechnologies Corp. $CNO.V**
+
+Market Cap: 50M ( +60% since firs post)
+
+Company Overview:
+
+Cal Nano is focused on advanced materials processing, using two main technologies: Cryomilling and Spark Plasma Sintering. They serve industries like aerospace, defence, energy, and automotive, helping improve material properties such as strength and durability.
+
+
+
+**Highlights**
+
+Cal Nano’s new 19,500-square-foot facility in Santa Ana expands their production capacity a ton and positions them to take on larger projects. The recent installation of the MSP-5 Spark Plasma Sintering machine, one of the largest in North America, adds real firepower to their capabilities. With this machine, they can handle bigger batches, more complex materials, and just overall meet the growing demand for their services.
+
+The most interesting part of Cal Nano’s evolution is their shift from pure R&D services to commercial-scale production. This change means more predictable revenue and the potential for larger, longer-term contracts, which should boost their financial performance in the coming years.  
+
+
+On the financial side, things are looking pretty solid. They’re maintaining gross margins above 60% and ebitda margins over 30%. Plus they have been steadily reducing their debt which is nice to see.
+
+Additionally, insiders hold about 40% of the company’s shares
+
+
+
+**Golden Lake Exploration Inc. $GOLXF $GLM.CN**
+
+Market Cap: CAD $5M ( up 40% since first post) 
+
+Company Overview:
+
+Golden Lake Exploration is a junior mining company focused on the Jewel Ridge property in Nevada's Battle Mountain-Eureka Gold Trend, one of the most prolific gold-producing regions in the U.S. This area is surrounded by major projects like I-80 Gold’s Ruby Hill (600M MC) and McEwen Mining’s Gold Bar (660M MC), putting Golden Lake right in the middle of prime mining real estate.
+
+
+
+**Highlights**
+
+Golden Lake just started drilling at Magnet Ridge after closing a $750,000 financing round. The main target is an 800-meter-long anomaly that’s showing some strong chargeability, which usually means there are sulphide minerals (often a good sign for precious metals). Previous drilling around the edges hit 5.13 g/t gold over 5.43 meters, but now they’re going deeper into the core of this anomaly, where the chargeability is up to 10x stronger. If they hit anything close to those historical results but at depth, shit could get pretty wild.
+
+Plus, Magnet Ridge is just one of several high-priority targets on the Jewel Ridge property, which features both Carlin-type and Carbonate Replacement Deposits. The CRD systems, in particular, offer the potential for not just gold but also base metals like silver, lead, and zinc. In fact, historical drilling across the property has returned solid intercepts of other metals, such as **3.23 meters of 57.16 g/t gold, 452.03 g/t silver, 7.23% lead, and 11.99% zinc** from the Eureka Tunnel target. Those are some crazy grades.
+
+IMO, the stock's been beaten to all-time lows but with drilling underway, I think there’s a strong chance that the results come back positive, and with how strong the gold market is, I do not think the risk/reward at these levels are terrible. Definitely one to keep an eye on
+
+  
+**This is not financial advice. I am literally just a random dude on reddit. Shoutout to you if you made it this far, thx for reading**  ",/r/pennystocks/comments/1fknz7h/3_penny_stocks_that_might_help_you_achieve/,0.7845,0.33,0.0,0.67
+3 Penny stocks that could bring you wife-changing returns - Stocksy's Weekly DD,75,29,2024-09-12,"Hey! Once again, here is some DD on companies that I have been paying attention to as of lately. QTWO has been on an absolute since their announcement yesterday, now up over 70% since my first post on them. I do hope you find value in this post, and as always, feel free to comment any tickers you want me to check out. 
+
+  
+**Enterprise Group, Inc. $E.TO $ETOLF**
+
+Market cap: 100M (Up 100% since my first post)
+
+Company Overview:
+
+Enterprise Group, Inc., based in Alberta, specializes in equipment and services for the energy, pipeline, and construction sectors. They focus on innovative, environmentally friendly technology to reduce CO2 and GHG emissions, catering to blue-chip clients in Western Canada.
+
+
+
+**Highlights**
+
+I was pretty impressed with their Q2 2024 results, released around a month ago. They reported $7.7 million in revenue, up 41% from the same period last year. **Their gross margin almost doubled**. Adjusted EBITDA was $2.65 million, up 138% from the previous year. 
+
+The most bullish aspect for me is that Q2 is their seasonally weakest quarter, which usually results in a net loss. However, they still managed to produce net income, which has me super excited for the second half of the year.
+
+Their client base includes large companies such as Chevron, Shell, and Canadian Natural Resources.
+
+Insider ownership is another strong point, with management and directors holding over 35% of the shares. They’ve also cancelled around 11.3 million shares.
+
+Enterprise is investing heavily to modernize and expand. They’ve allocated nearly $9.7 million into capital assets, focusing on natural gas power generation equipment due to the growing demand for cleaner alternatives to diesel. Additionally, they are building a new facility in Fort St. John, BC, expected to be completed by the end of 2024, to support their expanding operations.
+
+As long as the push to cut down on carbon emissions continues to be demanded by governments, Enterprise group should continue to perform well in the coming years.
+
+Also, it is hard to find a penny stock with a nicer chart than $E.TO tbh.
+
+
+
+**Q2 Metals Corp. $QUEXF $QTWO.V**
+
+Market cap:  95M ( up 72% since first post)
+
+Company Overview:
+
+Q2 Metals is a Canadian exploration company, focusing on lithium and gold projects, particularly the Mia and Cisco Lithium properties in Quebec.
+
+
+
+**Highlights**
+
+Q2 Metals announced yesterday that they drilled 347.1 meters of spodumene pegmatite at their Cisco property, making that their largest lithium-bearing intercept so far. This is a huge update, as it just continues to build on their previous 215.6-meter drill result. The consistency of these high-grade lithium findings, which have shown lithium oxide grades as high as 4.31%, continues to show the strong potential of the Cisco property, hinting at a sizable lithium deposit that could be commercially viable.
+
+Financially, the company remains solid after raising $7.5M through a private placement. This funding allows them to continue their aggressive exploration, planning an additional 10,000 to 12,000 meters of drilling at the Cisco property. 
+
+The Cisco property’s potential could make Q2 the next Patriot Battery Metals ($PMET.TO). Neil McCallum, VP of Exploration at Q2, also played a key role in identifying PMET’s Corvette property, giving Q2 an edge in leveraging similar successes. Given the promising early results and the depth of experience in the team, this has been one of my favourite plays lately.
+
+
+
+**Golden Spike Resources Corp. $GLDS.CN $GSPRF**
+
+Market Cap: $9.6M
+
+Company Overview:
+
+Golden Spike Resources is a Canadian exploration company focused on base and precious metals, primarily copper and gold, at their Gregory River project in Newfoundland. The company’s efforts are centred on the Gregory River VMS (Volcanogenic Massive Sulfide) belt, known for its high-grade copper-gold deposits
+
+
+
+**Highlights**
+
+Golden Spike’s recent drill results are impressive. At Lode 9, one of their key targets, the team hit a 7.2-meter interval with 2.12% copper and 0.6 g/t gold. For context, any copper grade over 1% is considered solid for exploration, so hitting over 2% with gold credits is a great sign. On top of that, historical sampling in the same area produced even higher numbers, like 4.04% copper and 0.72 g/t gold over 2.1 meters, so there's reason to believe there’s more to uncover. There’s also a 500-meter-long IP anomaly at Lode 9, which suggests deeper mineralization that hasn’t yet been tested. 
+
+Steep Brook is another standout area. Samples from here have shown up to **19.6% copper and 27.4 g/t gold**. Those are insanely high grades. With those numbers, it’s clear the target has more to give, especially since it hasn’t been drilled nearly as much as it should.
+
+Yesterday, Golden Spike announced two private placements, with Eric Sprott increasing his stake in the company to 12.3%. His continued involvement clearly shows strong confidence in their potential. The $1M NFT unit offering, plus an additional $1.84M from a flow-through unit offering, will provide the capital needed to push forward exploration.
+
+Plus, their project sits in a very active mining district in Newfoundland, which itself is seeing renewed interest from explorers. If they can continue to hit solid grades in their drilling and expand these discoveries, this could easily turn into something much larger, especially as copper and gold markets stay strong. For a company at this early stage, the potential upside is huge IMO.
+
+
+
+**As always, please understand that I am just a random redittoorrrr, so please do your own research. NFA**",/r/pennystocks/comments/1ffaflq/3_penny_stocks_that_could_bring_you_wifechanging/,0.0,0.0,0.0,1.0
+Penny stocks that might help you reach financial freedom (nfa ofc) - Stocksy’s Weekly DD,7,9,2024-08-14,"Hey everyone. Once again, here are some notes on companies that I think could see huge growth in the coming years. They all have a great story going for them, especially Condor, that one looks like free money at these prices. Anyways, please comment any tickers you want me to take a look at! Cheers
+
+Q2 Metals Corp. $QUEXF $QTWO.V
+
+Market Cap: 54M
+
+Company Overview:
+Q2 Metals is a Canadian exploration company focusing on lithium and gold projects, particularly the Mia and Cisco Lithium properties in Quebec.
+
+Highlights:
+
+Q2 Metals has been hitting some impressive results at its Cisco Lithium Property. Their drilling has consistently intersected spodumene pegmatite, which is rich in lithium. One of their standout drills returned 115.4 meters of lithium-rich rock, and more recently, they reported a 215.6-meter interval, which is their best yet.
+
+They’ve also been expanding their understanding of the property, recently discovering eight new spodumene occurrences, bringing their total to 15. Some of these samples show lithium oxide grades as high as 4.31%, spread across a sizable area, which could indicate a huge deposit.
+
+Financially, they’re set after raising $7.5M through a private placement. This funding will support an additional 10,000 to 12,000 meters of drilling at the Cisco property.
+
+I personally think it has the potential to become the next PMET ( Patriot Battery Metals, 458M USD market cap). Neil Mcallum, the VP of Exploration at Q2, is the same dude who identified the Corvette property for 92 Resources, which is now PMET. The Cisco property already looks super promising, and there is still a lot to explore. ps I am well aware that the price of lithium is abysmal 
+
+Condor Energies Inc.  $CDR.TO
+
+Market Cap: 127M
+
+Company Overview: 
+Condor Energies is a Canadian-based energy company focused on natural gas production and LNG development in Uzbekistan and Kazakhstan. They hold interests in gas fields in Turkey as well.
+
+Highlights: 
+
+Condor pulled in $19M in sales in Q2 2024, mainly from their operations in Uzbekistan. 19M in only 2.5 months is super impressive. They produced an average of 10,052 boe/d, including 59,033 Mcf/d of natural gas. That's a massive boost, considering they just started this new contract a few months ago in March.
+
+What’s really promising is their multi-well workover program in Uzbekistan. The first well they optimized saw a production increase of over 100%, doubling its output. With over 100 wells lined up, this could boost their future production levels like crazy.
+
+In Kazakhstan, Condor signed an LNG Framework Agreement to produce and utilize LNG for the national railway operator's locomotives.
+
+The upcoming LNG facility in Kazakhstan is expected to produce 120,000 metric tons annually by mid-2026, with the first phase already in motion. 
+
+Even though they jumped 30% today on the results of Uzbekistan, I think this still has so much room higher. You should definitely watch this one. 
+
+Myriad Uranium Corp. $MYRUF $M.CN
+
+Market Cap: 12M
+
+Company Overview:
+Myriad Uranium Corp. focuses on uranium exploration and holds a 75% stake in the Copper Mountain Uranium Project in Wyoming, USA. This site includes several known uranium deposits and historic mines, like the Arrowhead Mine.
+
+I’ve talked about this company before, but it remains one of my favourite plays.
+
+Highlights:
+
+What I like about the Copper Mountain Project is all its history. Back in the 1970s, Union Pacific invested an estimated $78 million (in today's dollars) and drilled over 2,000 boreholes. Their efforts uncovered multiple high-grade uranium zones and identified six significant deposits, including the North Canning Deposit. Union Pacific developed a comprehensive six-pit mine plan and a feasibility study for a large-scale conventional uranium mine. However, the project was halted in 1979 due to the Three Mile Island accident, which caused uranium prices to plummet, making the operation economically unviable at the time.
+
+Fast forward to today, with the uranium market much stronger and more favourable, Myriad has a huge advantage. They have access to ALL the historical data and plans from Union Pacific's exploration. This includes detailed mapping, surface geochemistry, drill data, and resource estimates. Additionally, they have Jim Davis on their technical committee, who was the guy who actually led the original exploration at Copper Mountain for Union Pacific. Having someone with firsthand knowledge and experience from the initial exploration is a huge asset and adds immense value to their current exploration efforts.
+
+Also one of the things I like about Myriad is just how active they have been. They recently closed the first tranche of $2.9 million in their private placement and are planning to raise another $2.5M. This funding will support their 2024 exploration plan, which focuses on drilling the high-grade zone at the North Canning Deposit. Their goal is to outline an initial NI 43-101 resource by Q1 2025.
+",/r/pennystocks/comments/1esb4gx/penny_stocks_that_might_help_you_reach_financial/,0.7906,0.4,0.0,0.6
+Upside Potential in Uranium,11,11,2024-08-14,"Good morning! With new policies on the ballot this November, the clean energy landscape is expanding. A major player in this space is uranium, more specifically, domestic uranium. Panther Minerals Inc. (CSE:PURR | OTC:GLIOF | FWB:2BC) caught my eye as a major player in the space- let me know what you guys think.
+
+NFA, Communicated disclaimer.
+
+**Why Panther**
+
+Panther Minerals is a key player in growing domestic uranium mining. Their acquisition of ""high-potential"" properties positions the company for significant growth in the market. Strategic acquisitions are key in this industry to maximize the bang for the buck in mine investment.
+
+**Uranium?**
+
+Yes, uranium and nuclear energy have been used as clean sources for the unaware. According to the Nuclear Energy Insitute, 471 million metric tons of CO2 emissions have been avoided from nuclear energy, just in 2020. The demand for uranium will only grow as nuclear technology develops. The global uranium market currently operates in a deficit where power plant demand exceeds uranium supply. China and India are both at the forefront of increasing nuclear energy capabilities and as trade embargoes are placed on the ballot, domestic reliance is becoming more of a hot topic. The U.S. imports 90% of annual uranium requirements (as of 2019)
+
+**Catalysts**
+
+* Strategic Acquisitions - Huber Heights in Nevada as well as Alaskan expansion secure uranium-rich properties
+* Exploration Techniques - Hyperspectral satellite imagery and long-wave IR surveys help identify prospective properties
+* Market Dynamics - The focus on minimizing foreign dependencies further supports the mission of Panther Minerals and other domestic exploration and production groups
+
+**My Take**
+
+Personally, I am skeptical when it comes to new companies focused on energy as there are plenty of lemons in the sector. However, Panther Minerals is not reinventing the wheel or tagging their company with the AI stamp. They are sticking to the fundamentals of domestically providing a highly demanded resource, providing to a lucrative market.
+
+Source - [1](https://pantherminerals.ca/), [2](https://finance.yahoo.com/quote/PURR.CN/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANvatffCtldWI_GVdGEA7zwTtC75VUAL7tGAPG-iSOQrHijgD3U49C3X9SxVCZ9AwAttz6Zk3L_FtE6W9oD2zUrZowCOv0pXEwwTNRkxat57yKyidWuoHCftOxCjLjMe4W1ErZlMoiR1UA1vKuf7X_P1I4qDPc30-cO9JxSBiN3V), [3](https://charting-hub.com/leading-the-charge-in-uranium-exploration/)",/r/pennystocks/comments/1es21u8/upside_potential_in_uranium/,0.0,0.0,0.0,1.0
+Penny Stocks that might help you escape the matrix ,36,15,2024-08-01,"Hey everyone. Here are some notes on the stocks I have been mainly watching this week. QIMC has been on a tear, up over 100% since my last post about them. I hope this DD can be of value to anyone. Also, please feel free to share any tickers you want me to check out, cheers!
+
+- I really wish I could add images/charts&graphs  
+
+
+**BeWhere Holdings Inc. $BEWFF $BEW.V**
+
+  
+Market cap: 48M ( Up 45% since my first post of them 3 mo ago)
+
+
+
+**Company Overview**
+
+BeWhere Holdings Inc., based in Mississauga, operates in the Industrial Internet of Things sector. They focus on hardware with sensors and software for real-time asset tracking, utilizing LTE-M and NB-IoT technologies.
+
+**Highlights**
+
+The global asset tracking market is growing and is expected to reach $55.1 billion by 2026. 
+
+The company collaborates with major players like Bell, T-Mobile, and AT&T, which suggests strong confidence in its products and a good chance for broad market penetration​​.
+
+Recent financials are strong. Total revenue increased 31% year over year to $3.5 million in Q1 2024. Recurring revenue also grew by 28%, hitting $1.54 million in the same period​​.
+
+Recently, they secured a significant follow-up order for over 16,000 low-power 5G IoT trackers from a Fortune 100 company.
+
+BeWhere's flexible revenue model combines a one-time hardware purchase with recurring software usage fees, creating a steady income stream and scalability.
+
+  
+
+
+  
+**Quebec Innovative Materials Corp. $QIMC.CN**
+
+Market cap: 11M 
+
+**Company Overview**
+
+Quebec Innovative Materials Corp. is focused on exploring and developing critical minerals, particularly high-grade silica and natural hydrogen. Their main projects are located in Quebec and Ontario, aimed at supporting the clean energy sector.
+
+
+
+**Highlights**
+
+At the Ville Marie project, QIMC discovered natural hydrogen in significant concentrations, ranging from 157 to 388 ppm. These levels are new for Quebec, revealing strong hydrogen presence in specific areas, particularly around fault lines.
+
+Their Charlevoix Silica Project is focused on high-purity quartz, which is crucial for things like solar panels and batteries. This project has a purity level of around 98% and is in the permitting stage.
+
+There’s been a ton of insider buying lately, $77k in the past week.
+
+Overall, I just like QIMC because I think hydrogen and silica are both decent bets right now, and they have a solid project for each. 
+
+
+
+**Golden Lake Exploration Inc. $GOLXF $GLM.V**
+
+Market Cap: 4M
+
+**Company Overview**
+
+Golden Lake Exploration is a junior mining company focused on the Jewel Ridge property in Nevada's Battle Mountain-Eureka Gold Trend, a prolific gold-producing area.
+
+
+
+**Highlights**
+
+Jewel Ridge is in a prime location within the Battle Mountain-Eureka Trend, an area that has produced over 40 million ounces of gold historically. This site is surrounded by major projects like i-80 Gold's (540M MC)  Ruby Hill, which has over 7.73 million ounces of gold, and McEwen Mining’s (633M MC) Gold bar project.
+
+The site features both Carlin-type and Carbonate Replacement Deposits. Carlin-type deposits are known for their high gold grade and are relatively easy to process, while CRD deposits can include a mix of metals like gold, silver, lead, and zinc. 
+
+Historical drilling at Jewel Ridge has shown promising results. Notable intercepts include 56.39 meters of 1.24 g/t gold and 10.67 meters of 4.79 g/t gold.
+
+The Eureka Tunnel target is another highlight, yielding 3.23 meters of 57.16 g/t gold, 452.03 g/t silver, 7.23% lead, and 11.99% zinc.
+
+Recent surveys identified several promising drill targets, particularly along the Jackson Fault. For instance, the Magnet Ridge target features an 800-meter-long IP anomaly, an untested feature that could indicate rich mineral deposits below the surface.
+
+IMHO GLM’s Jewel Ridge project clearly has a ton of untapped potential, especially considering its location and neighbors. With big names like Eric Sprott holding a significant stake (around 7%) and the CEO's solid track record in raising funds for mineral projects, there's definitely still a reason to have hope here. The stock's been beaten to all-time lows but with drilling coming soon, I think there’s a strong chance that the results come back super positive, and with how strong the gold market it, I do not think the risk/reward at these levels are terrible. One to watch.
+
+  
+As always none of this financial advice, I am just a random redditoooor.",/r/pennystocks/comments/1ehnbo8/penny_stocks_that_might_help_you_escape_the_matrix/,0.5267,0.386,0.0,0.614
+4 Penny Stocks With Huge Growth Potential,17,23,2024-07-25,"Yo. Here are some notes on companies that I have been looking into lately. I find that when you are considering investing in these speculative penny stocks, of course, the company fundamentals are important, but it is sometimes even more important to understand the story/narrative the company has going for it. Finding companies with compelling stories that you think will eventually get enough investors to buy into can be a smart way of messing with these small caps.  That is why I have a huge list of companies that I find have a good narrative, and I simply track them and let the story unfold.
+
+As always, feel free to suggest any tickers you want me to check out.
+
+**Hemisphere Energy Corporation $HMENF $HME.V**
+
+Market cap: 174M
+
+**Company Overview**
+
+Hemisphere Energy is a Canadian oil and gas company with a focus on maximizing production from its Atlee Buffalo and Jenner properties in Alberta. The company uses Enhanced Oil Recovery techniques, including polymer flooding, to extract oil more efficiently.
+
+HME has been repeatedly commented on my past posts. I see why. It looks super solid.
+
+**Highlights**
+
+The Atlee Buffalo property is a major asset for Hemisphere, producing around 3,500 barrels of oil equivalent per day (boe/d). This site is significant because the company uses polymer flooding, which has proven effective in maintaining steady production levels and managing decline rates.
+
+Financially, Hemisphere is in a strong position. They’re debt-free. This financial stability allows them to return value to shareholders through dividends and share buybacks. They’ve been consistent with quarterly dividends and even handed out a special dividend recently.
+
+As of the end of 2023, Hemisphere had Proved Developed Producing reserves of 8.2 million barrels of oil equivalent (MMboe), valued at $248 million. This means that they have a confirmed amount of oil and gas that they can produce from their existing wells. Additionally, their total Proved + Probable reserves, essentially a best guess of what they can extract, including future potential, stand at 16.3 MMboe, valued at $416 million.
+
+Hemisphere has had impressive growth, with a compound annual growth rate of 31% in production over the past six years.
+
+Plus, their recent expansion into Marsden, Saskatchewan, is something to watch. They plan to implement a pilot polymer flood project there in 2024. If successful, this could significantly increase their production and reserves, similar to what they've achieved at Atlee Buffalo.
+
+**Pulse Seismic Inc. $PLSDF $PSD.TO**
+
+Market cap: 124M
+
+**Company Overview**
+
+Pulse Seismic Inc. is a Canadian company that specializes in gathering and selling seismic data. Their main product is a huge library of seismic data, which includes both 2D and 3D formats. This data is essential for oil and gas companies looking to explore and develop new resources, as it helps them understand the geological formations beneath the earth's surface.
+
+Another one that has been suggested a bunch. The growth in the past few months is hard to ignore.
+
+**Highlights**
+
+Pulse has a significant amount of data in their library, covering over 65,310 square kilometres of 3D seismic data and 829,207 kilometres of 2D seismic data. This makes them a key player in providing the data needed for resource exploration in Western Canada.
+
+Their business model involves licensing their seismic data, which means they retain ownership of the data while making money from companies that need access to it. This provides a steady revenue stream and potential for growth, especially during industry events like mergers and acquisitions.
+
+The company has been performing pretty well financially, with an average EBITDA margin of 73% over the last five years.
+
+Beyond traditional oil and gas exploration, Pulse’s data is also used by companies in sectors like lithium, hydrogen, and carbon capture. This diversification could help them tap into new markets and revenue streams.
+
+**Myriad Uranium Corp. $MYRUF $M.CN**
+
+Market cap: 14M
+
+**Company Overview**
+
+Myriad Uranium Corp. specializes in exploring and developing uranium resources. The company's main asset is the Copper Mountain Uranium Project in Wyoming, which includes several known deposits and historic mines. Among these, the Arrowhead Mine stands out with a production history of 500,000 lbs of eU3O8.
+
+I have included this one in past posts, but they have been super active so there is continually more to add. This one has a super strong story, which is clearly being bought into, considering the stock is up 44% in the past month.
+
+**Highlights**
+
+Myriad acquired a 75% stake in Copper Mountain, benefiting from Union Pacific's extensive exploration. In the 1970’s, Union Pacific drilled over 2,000 boreholes and uncovered multiple uranium deposits. They even developed a six-pit mine plan, investing the equivalent of $117 million in today's money. Unfortunately, the Three Mile Island accident in 1979 caused uranium prices to crash, putting all these plans on hold.
+
+The historical data indicates there could be up to 65 million pounds of uranium at Copper Mountain. If Myriad can confirm these estimates, it could be a huge deal.
+
+The U.S. is in a tight spot with uranium. They used 40 million pounds last year but only produced 165,000 pounds domestically. With the new ban on Russian uranium starting soon, domestic sources like Copper Mountain are becoming increasingly crucial.
+
+Wyoming is a prime spot for uranium mining, hosting most of the country's operating uranium mines.
+
+The company recently raised $2.9 million through a private placement, part of a $5 million goal to accelerate exploration and development efforts.
+
+They're also digitizing and updating the old data from Union Pacific, which should streamline their future exploration efforts and possibly speed up the project's development timeline.
+
+# 
+
+**PCS Edventures! Inc. $PCSV**
+
+Market Cap: 36M
+
+**Company Overview:**
+
+PCS Edventures! Inc. focuses on STEM education, offering programs for K-12 students. They cater to schools, after-school programs, and even military education settings. Their product range includes things like BrickLAB, which uses Lego-like bricks, and the Discover Series, covering topics from drones to engineering.
+
+This one is much different from the other picks and is much less known but they have seen solid growth and with the school system failing kids nowadays I thought I’d chuck this one in.
+
+**Highlights**
+
+PCS has about 30 programs, with plans to add at least two new ones each year. Their offerings are pretty comprehensive, from basic STEM kits to advanced drone technology.
+
+They’re expanding physically, moving into a bigger warehouse to keep up with demand. The new facility is more than double the size of their current one, which shows they’re gearing up for growth.
+
+Financially, they're doing well. Revenues jumped from $7 million in 2023 to $9.1 million in 2024, with a solid net income boost to $4.44 million. 
+
+The company’s strategy is focused on dominating the niche but growing educational drone market. It is also streamlining its sales process, which should help it reach more customers efficiently.
+
+The high insider ownership of 46.7% shows that the people running the show are heavily invested in the company's success. 
+
+PCS isn’t just sticking to traditional markets. They’re exploring new areas like corporate outreach and summer programs, which could open up even more revenue streams.
+
+If you got this far, shout out to you, comment a ticker, and I'll try to give it a look.",/r/pennystocks/comments/1ec3ul8/4_penny_stocks_with_huge_growth_potential/,0.5994,0.495,0.0,0.505
+WATCH THIS PENNY STOCK,11,15,2024-07-23,"The company is Myriad Uranium Corp ($M.CN) ($MYRUF) - last year they acquired an earnable 75% interest in the Copper Mountain Uranium Project in Wyoming. To earn 50% Myriad must spend $1.5M by October 2025 & to gain the remaining 75% they must spend an additional $4M by October 2027.
+
+The Copper Mountain Uranium project is an old property that was explored in the 1970s by Union Pacific, in today’s dollars they invested \~117 million in developing the project which resulted in \~2000 drill holes.
+
+Previous estimates showed that the property has 15-30 million pounds of uranium but recent analysis shows there can be up to 63 million pounds. Things are looking good with an 83-hole drill program planned for late summer or early fall.
+
+Uranium prices are sitting at \~$83 & are projected to go higher in the coming years due to the supply/demand factors that continue to evolve (nuclear energy becoming more popular & less supply coming online).
+
+This creates a massive tailwind for all uranium companies in the coming years as junior miners tend to outperform the price of spot uranium when it rallies.
+
+The recent analysis of there being up to 63 million pounds of uranium on the property shows just how big this property can be, it has the potential to be one of Wyoming’s largest uranium projects.
+
+Myriad’s current market cap of \~$14 million seems low & leaves potential room for the company to be re-rated much higher.
+
+**Here are some other quick points:**
+
+* Shares are currently at $0.295 & are up 37% in the past month.
+* Insiders hold 24% of the shares & the CEO is the second-largest shareholder.
+* CEO Thomas Lamb bought $100k of stock at $0.25 on June 25th, 2024.
+* They closed the 1st tranche of $2.9 million in their PP on June 25th, 2024, these funds will be used to support their 2024 exploration plan & the 2nd tranche should be closing shortly.
+
+Check it out & add it to your watchlist!",/r/pennystocks/comments/1eap4oz/watch_this_penny_stock/,0.0,0.0,0.0,1.0
+3 Juicy Penny Stocks to add to your watchlist - Stocksy’s Weekly DD,3,9,2024-07-18,"Yo! Might be wrong to call it weekly since I haven’t posted in a few weeks… but here is the penny stocks I have been looking into this week! Got QIMC from a past comment on one of my post so ty! Also as always, feel free to share any tickers you think I should check out! Hope this is of value to someone.
+
+
+
+**Cult Food Science Corp. $CULTF $CULT.CN**
+
+Market Cap: $26M
+
+Company Overview:
+
+Cult Food Science Corp. is a venture capital firm focusing on cellular agriculture and lab-grown meat. They invest in early-stage companies within the food sector, aiming to revolutionize food production sustainably.
+
+
+
+**Highlights:**
+
+CULT caught my eye first of all due to the huge pump it's had lately, but also because of how odd it is. Lab-grown meat in pet food... Really? But they seem to actually be making it work. Plus, The market for lab-grown meat is apparently projected to grow significantly, potentially hitting $25 billion by 2030.
+
+Their subsidiary, Further Foods, launched Noochies!, which is pioneering lab-grown meat for pets. This seemed weird at first, but when you think about it, the pet food market is massive, and there’s a growing demand for sustainable and healthy options. Noochies! is already selling through Amazon, Target, Kroger, and Walmart, which shows they're gaining traction. Plus, they’re pulling in high gross profit margins (over 60%), which is impressive.
+
+CULT’s early mover advantage in cellular agriculture is also worth noting. They’ve invested in 18 ventures across four continents, giving them significant exposure to this emerging industry. This diversified approach spreads their risk and increases the chances of hitting a big winner as the market grows.
+
+Financially, CULT is solid. They recently raised CAD 800K through a private placement, securing funds for future investments and operational growth. This kind of financial backing is nice to see for supporting their ambitious growth plans.
+
+  
+
+
+**Quebec Innovative Materials Corp. $QIMC.CN**
+
+Market Cap: 5M
+
+Company Overview:
+
+Québec Innovative Materials Corp. focuses on exploring and developing critical minerals essential for the clean energy sector. Their main projects are in Quebec and Ontario, targeting high-grade silica and hydrogen resources.
+
+
+
+**Highlights:**
+
+
+
+Hydrogen:
+
+I’ve been liking hydrogen plays lately. Hydrogen is becoming a big deal in the move towards cleaner energy because it’s light, storable, and packs a lot of energy. What’s cool about natural hydrogen is that it’s cheaper and cleaner to produce since it forms naturally underground. This is why I think companies like QIMC, which focus on natural hydrogen, have great potential.
+
+Ville Marie Project:
+
+QIMC’s Ville Marie project in Quebec has some real promise. It’s located in the Témiscamingue area, which has a lot of seismic activity and fault lines. These geological features could act like natural pipelines, allowing hydrogen to move from deep underground to the surface (essentially, the earth itself is helping with the extraction). They’re working with the Institut National de la Recherche Scientifique (INRS) to really dig into this potential. INRS is doing soil gas surveys and underwater surveys in Lake Témiscamingue to pinpoint where the hydrogen might be coming out. Having INRS on board is a big plus because they bring a ton of expertise to the table, making this project even more credible.
+
+Silica – Charlevoix Project:
+
+Silica is another focus for QIMC. High-purity silica is crucial for making solar-grade silicon used in photovoltaic cells (the stuff in solar panels). The Charlevoix Silica Project has quartz with about 98% purity and is currently in the permitting stage. This project's location near infrastructure like roads and ports makes development more straightforward. Silica’s also important for battery tech since it can hold more charge than typical materials, making it a valuable asset for future energy storage solutions.
+
+Overall, I just like QIMC because I think hydrogen and silica are both decent bets right now, and they have a solid project for each. The INRS partnership only helps. The market clearly agrees because, with their recent activity and developments, they are up 140% in the past month.
+
+
+
+**Myriad Uranium Corp. $MYRUF $M.CN**
+
+Market Cap: 12M
+
+Company Overview:
+
+Myriad Uranium Corp. focuses on uranium exploration and holds a 75% stake in the Copper Mountain Uranium Project in Wyoming, USA. This site includes several known uranium deposits and historic mines, like the Arrowhead Mine.
+
+
+
+**Highlights:**
+
+What I like about the Copper Mountain Project is all its history. Back in the 1970s, Union Pacific invested an estimated $78 million (in today's dollars) and drilled over 2,000 boreholes. Their efforts uncovered multiple high-grade uranium zones and identified six significant deposits, including the North Canning Deposit. Union Pacific developed a comprehensive six-pit mine plan and a feasibility study for a large-scale conventional uranium mine. However, the project was halted in 1979 due to the Three Mile Island accident, which caused uranium prices to plummet, making the operation economically unviable at the time.
+
+Fast forward to today, with the uranium market much stronger and more favourable, Myriad has a huge advantage. They have access to ALL the historical data and plans from Union Pacific's exploration. This includes detailed mapping, surface geochemistry, drill data, and resource estimates. Additionally, they have Jim Davis on their technical committee, who was the guy who actually led the original exploration at Copper Mountain for Union Pacific. Having someone with firsthand knowledge and experience from the initial exploration is a huge asset and adds immense value to their current exploration efforts.
+
+Also one of the things I like about Myriad is just how active they have been. They recently closed the first tranche of $2.9 million in their private placement, showing strong investor interest. This funding will support their 2024 exploration plan, which focuses on drilling the high-grade zone at the North Canning Deposit. Their goal is to outline an initial NI 43-101 resource by Q1 2025.
+
+Additionally, Myriad just announced the start of a geophysical survey at Copper Mountain. This survey aims to uncover new targets and further validate the historical data. 
+
+",/r/pennystocks/comments/1e6io56/3_juicy_penny_stocks_to_add_to_your_watchlist/,0.0,0.0,0.0,1.0
+This is the best play in Uranium right now. -  Prove me wrong,0,18,2024-07-10,"Hi everyone,
+
+I just want to share some thoughts and hopefully receive some feedback on a project that Myriad Uranium has been exploring which is the Copper Mountain Uranium Project in Wyoming. I've been interested in this one ever since they announced the discovery of a ton of historical data from previous exploration efforts in the 1970s by Union Pacific. In my eyes, this is one of the most promising uranium projects being explored at the moment, and I was hoping to get some opinions on it.
+
+**Historical Context and Union Pacific's Work:**
+
+To understand the promise of this project, you need to know its history. Back in the 1970s, Union Pacific poured about $117 million (in today's dollars) into exploring the Copper Mountain area. They drilled over 2,000 boreholes and identified six uranium deposits. Union Pacific had even developed a full-blown six-pit mine plan based on their findings, estimating resources between 15.7 and 30.1 million pounds of uranium, with additional targets pushing the potential over 65 million pounds.
+
+However, their plans were derailed due to the Three Mile Island incident in 1979, which significantly impacted the nuclear industry and uranium market.
+
+**Reviving the Project with Myriad Uranium:**
+
+Fast forward to today, now that there is much more stability and enthusiasm around uranium, Myriad Uranium is picking up where Union Pacific left off. They've acquired a 75% interest in the Copper Mountain project and have access to all the historical data and documents from Union Pacific's exploration. As you can imagine, having all this historical data is expected to save significant time and capital as Myriad goes forward with its exploration and drilling plans.
+
+I think one of the most promising aspects is that Jim Davis, the same geologist who led Union Pacific's exploration efforts in the 1970s, is now on Myriad's Technical Committee. His intimate knowledge of the project and the historical data is a huge plus.
+
+**Why now though?**
+
+The timing couldn't be better. The U.S. is heavily investing in domestic uranium production, due to a global shift back to nuclear energy and geopolitical moves, such as the recent ban on Russian uranium imports. This geopolitical shift has shown the need for energy security, and the U.S. government has committed a ton of funding to revitalize the domestic uranium industry.
+
+The Prohibiting Russian Uranium Imports Act, passed in May 2024, is a key example of this push. Additionally, the Nuclear Fuel Security Act and the National Defense Authorization Act have unlocked $2.72 billion in funding to ramp up domestic uranium fuel production. Wyoming, with its juicy uranium reserves and existing infrastructure, is at the center of this renewed focus.
+
+With Myriad Uranium using Union Pacific's historical work and the expertise of Jim Davis, along with the current market and geopolitical conditions, the Copper Mountain project just seems to be clearly undervalued... unless I'm just ignorant of something.
+
+That being said, I'd love to hear anyone's thoughts. Is there something I'm missing? Are there any counterarguments or risks that aren't immediately apparent? Thanks in advance to anyone who takes the time to give their 2cents. Btw Ticker is $M.CN or $MYRUF",/r/pennystocks/comments/1dzztxi/this_is_the_best_play_in_uranium_right_now_prove/,0.5423,0.335,0.157,0.508
+Penny stocks to add to your watchlist - July 2024,23,42,2024-07-04,"Yo! Once again sharing some of my notes from research I have done recently. Also, thx to everyone who suggested tickers under my previous posts, I have found some pretty solid picks from them! 
+
+  
+**Simply Better Brands Corp.  $PKANF $SBBC.V** 
+
+**Company Overview:**
+
+Simply Better Brands Corp. is a company I've been following closely. Based in Vancouver, they specialize in plant-based and wellness products, focusing on natural and clean ingredients. Their portfolio includes CBD products under PureKana, Seventh Sense, and Vibez, protein bars from TruBar, and skincare through No BS. They have a solid presence across North America, both online and in retail stores.
+
+
+
+**Highlights:**
+
+Here's why I find SBBC intriguing. Their Q1 2024 revenue was $13.99 million, up 17.5% from Q1 2023. What’s more, they’ve managed to cut their net loss down to $169,000 from $2.51 million last year. This kind of progress in such a short time is worth noting.
+
+TRUBAR really stands out to me. The brand expanded into 5,000 new retail locations, and their weekly Amazon sales jumped from $6,500 to over $55,000 since January 2024. TRUBAR's revenue skyrocketed from $10 million in 2022 to $24.7 million in 2023, showing that there’s strong demand for its products.
+
+Financially, they’re making some smart moves. SBBC secured a $5 million credit facility with a major Canadian bank and closed a $4 million private placement to support their growth and product development. This financial backing should help them scale even further.
+
+Another exciting aspect is the No BS skincare brand. It’s expanding nationally in Walgreens by Q3 2024, which should boost their market presence significantly. Given the trend towards natural beauty products, this could be a big win for them.
+
+I also like the experience of their management team, which includes people from big names like Kellogg, Wrigley, and Mars Inc. This gives me confidence in their ability to navigate the market and grow the brands effectively.
+
+  
+**Ramp Metals Inc. $RAMP.V**
+
+**Company Overview:**
+
+Ramp Metals Inc. focuses on exploring and acquiring battery and base metal properties, targeting nickel, copper, and lithium. Their key assets are the Rottenstone SW and Peter Lake Domain properties in Saskatchewan, Canada. Recently, they announced a significant gold discovery at Rottenstone SW, which could be a major development for them.
+
+
+
+**Highlights:**
+
+Ramp Metals recently reported a major gold find at Rottenstone SW. Drill hole Ranger-01 hit several gold zones, including 73.55 g/t Au over 7.5 meters. This is one of the highest-grade finds in Saskatchewan recently
+
+Plus, the Rottenstone SW property covers 17,285 hectares near the old Rottenstone Mine, known for high-grade nickel-copper-platinum elements and gold. Recent surveys suggest that the area could be similar to the Nova-Bollinger deposit in Australia, which was a big success​​.
+
+In addition to Rottenstone SW, Ramp has the Peter Lake Domain property and the Railroad Valley lithium project in Nevada. With the rising demand for electric vehicles and renewable energy, their focus on nickel and lithium is timely.
+
+Ramp Metals is financially well-positioned, having secured full ownership of their key properties and their management team has extensive experience in exploration and mining.
+
+Obviously, the SP recently did a 5x after the huge find and you may not want to buy in immediately here but add to the watchlist and see if you could grab a bag if the hype fades and we see a dip. Nfa  
+
+
+**Myriad Uranium Corp. $MYRUF $M.CN** 
+
+**Company Overview:**
+
+Myriad Uranium Corp. is focused on uranium exploration, with a 75% interest in the Copper Mountain Uranium Project in Wyoming, USA. This project includes several known uranium deposits and historic mines, such as the Arrowhead Mine, which historically produced 500,000 lbs of eU3O8.
+
+
+
+**Highlights:**
+
+Myriad’s recent move to secure a 75% stake in Copper Mountain grabbed my attention. Back in the 1970s, Union Pacific drilled over 2,000 boreholes in this area and found multiple high-grade zones. Historical estimates suggest there could be 15 to 30 million pounds of uranium, with some targets possibly holding even more.
+
+The timing for this project seems promising. The U.S. recently passed the Prohibiting Russian Uranium Imports Act, which boosts domestic uranium projects like Copper Mountain. Plus, uranium prices have jumped from $30 to $85 per pound over the last two years which is obviously favourable.
+
+What stands out to me is how Myriad is leveraging extensive historical data from Union Pacific’s past exploration. This includes detailed mapping, surface geochemistry, drill data, and historical resource estimates. Digitizing and validating this information should save them a lot of time and money as they move forward with Copper Mountain.
+
+Copper Mountain itself has several advanced prospects and past-producing mines. One standout area is the high-grade zone at the North Canning Deposit, which has shown intercepts of up to 0.385% eU3O8 and mineralized intervals up to 291 feet. Union Pacific had plans for a large-scale mine here, and it looks like Myriad is picking up where they left off.
+
+On the financial side, Myriad has recently closed the first tranche of $2.9 million in their private placement and reported continued interest from investors. This funding will support their 2024 exploration plan, focusing on drilling the high-grade zone at the Canning Deposit. They aim to outline an initial NI 43-101 resource by Q1 2025.
+
+  
+
+
+If you made it this far, I hope any of this is of value to you. Also comment a ticker and I will make sure to check it out :)
+
+",/r/pennystocks/comments/1dvf7j4/penny_stocks_to_add_to_your_watchlist_july_2024/,0.0,0.0,0.0,1.0
+3 Penny stocks that are going to a dollar SOON (nfa tho chill) $ Stocksy's weekly DD,44,26,2024-06-20,"Hey guys. I appreciate all the comments on the previous posts, some of the tickers suggested were actually pretty solid. KULR has been the most suggested ticker for me to check out for awhile, and here it is. As always please feel free to suggest any companies you want me to check out!
+
+
+
+**KULR Technology Group, Inc. $KULR**
+
+Market Cap: 66M
+
+**Company Overview**
+
+KULR Technology Group develops and commercializes thermal management technologies for electronics, batteries, and other components. Their products serve markets such as electric vehicles, energy storage, battery recycling transportation, cloud computing, and 5G communication devices.
+
+**Company Highlights**
+
+KULR had a solid 2023, with a 146% revenue increase to $9.8 million and a customer base that grew from 36 to 53. This growth shows rising demand for their tech.
+
+  
+Looking at Q1 2024, revenue was steady at $1.75 million. What stands out, though, is the 769% jump in contract services revenue to $1.13 million, indicating a strong demand for their specialized services. They more than doubled their revenue-generating customers, which is a promising sign. They did see gross margins drop to 29%, but they managed to cut SG&A expenses significantly and almost halved their R&D expenses.
+
+One of the most compelling aspects of KULR is their partnerships. They secured a $1 million order from H55 for electric aviation applications and are working with Nanoracks for space applications. KULR is also developing next-gen battery solutions for the U.S. Army. Management often mentions that they have significant partnerships with large companies, although many are under NDAs. For example, they hinted at the potential use of their SafeCASE in Apple stores and Amazon Prime shipments, showing their broad market reach.
+
+KULR has also launched an online marketplace for their SafeCASE and SafeSLEEVE products, approved by the U.S. Department of Transportation and accepted by UPS for battery transport. They’ve delivered power cell batteries for AI-enabled drone missions in Ukraine and customized battery solutions for the U.S. Army to enhance tactical operations.
+
+
+
+**CEMATRIX Corporation $CTXXF $CVX.V**
+
+Market Cap: 63M
+
+**Company Overview**
+
+CEMATRIX Corporation, based in Calgary, Canada, produces advanced cellular concrete products for infrastructure, industrial, energy, and commercial markets across North America. Their solutions are used for lightweight fill, insulation, and grouting applications.
+
+**Company Highlights**
+
+2023 was a big year for Cematrix, as it was their first year of profitability. Revenue jumped to $53.3 million from $29 million in 2022, a clear indicator that demand for their products is on the rise. Gross profit also saw a solid increase to $11.9 million, up from $2.5 million the previous year, showing their effective cost management.
+
+In Q1 2024, the company continued to perform well. They reported $8.4 million in revenue, an improvement from $7.2 million in Q1 2023. What is important, though, is that their gross margin saw a juicy increase, reaching $2.6 million compared to just $746,000 in the same quarter last year. This shows they are scaling operations efficiently while managing costs.
+
+  
+Their cellular concrete products are particularly impressive for their high strength-to-weight ratio, resistance to hydrocarbons, and durability against freeze/thaw cycles. These features make them ideal for applications like road construction and utility insulation. For example, the resistance to hydrocarbons ensures stability even when exposed to oil or gas spills, which is crucial for long-term infrastructure projects.
+
+The company operates through three subsidiaries: CEMATRIX (Canada) Inc, MixOnSite USA Inc, and Pacific International Grout Company. This structure allows them to manage and scale operations efficiently across North America.
+
+Additionally, they have received approvals from multiple transportation authorities which shows their credibility. Some positive client testimonials display their effectiveness in reducing project costs and timelines. For example, one client reported saving over 5,000 man-hours and accelerating their schedule by seven weeks due to Cematrix’s efficient product application.
+
+  
+
+
+**American Salars Lithium Inc. $ASALF $USLI.CN**
+
+Market Cap: 7M
+
+**Company Overview**
+
+American Salars Lithium Inc. focuses on exploring and developing high-value battery metals projects, catering to the growing electric vehicle market.
+
+**Company Highlights**
+
+American Salars stood out to me due to its resource-rich projects and strategic acquisitions. Their Candela II Lithium Brine Project in Argentina holds an inferred resource of 457,000 tonnes of lithium carbonate equivalent, positioning them well to meet the rising lithium demand from the EV sector over the next few years.
+
+  
+The recent acquisition of the Pocitos 1 Lithium Salar Project, along with Pocitos 2, adds an inferred resource of 760,000 tonnes of lithium carbonate equivalent. The proximity to essential infrastructure enhances the project's value. Moreover, completing the environmental and social baseline report for Pocitos 1 and 2 is a significant step towards securing production permits, adding credibility to the project.
+
+Their Blackrock South Lithium Brine Project in Nevada is another asset worth noting. Its location near the Tesla Gigafactory could open doors for future partnerships and logistical advantages.
+
+Financially, the company raised $844,999 in April 2024 and $580,000 in May 2024 through private placements. These funds are allocated for advancing exploration at Candela II, demonstrating their commitment to developing this project.
+
+New leadership has brought in experienced professionals. CEO Robert “Nick” Horsley, with over 19 years in finance and M&A, and CFO Daryn Gordon, a mining sector expert, bring valuable expertise to the company.
+
+A nice bonus is that the company maintains a lean capital structure with just 23 million shares outstanding, suggesting potential for significant upside.
+
+In terms of technology, their work at the University of Melbourne using Ekosolve™ DLE technology is impressive. They managed a 94.9% extraction efficiency and produced lithium carbonate with 99.8% purity. This breakthrough could really boost their production capabilities and set them apart.
+
+
+
+
+
+**If you are reading this, your a real one so suggest a ticker and if it is actually good I will post my thoughts on it in a future post. ty!**",/r/pennystocks/comments/1dkkpww/3_penny_stocks_that_are_going_to_a_dollar_soon/,0.0,0.0,0.0,1.0
+DD on $28M USD MKT CAP company leading $2.5B (by 2028) Graphene industry - $HGCPF ,10,12,2024-06-16,"Graphene is poised to revolutionize materials as we know it. 200x stronger than steel, harder than diamond, it’s been poised as a wonder material since its discovery in 2004. I’ve been following graphene companies for years, waiting for one that is going to overcome the challenges the industry has been facing regarding quality, consistency, cost to produce and scalability. Finally there is one. Its tech is patented, there is strong leadership and it’s months away from landing serious contracts with multiple fortune 500 companies. It’s under the radar now but only for a matter of months from now (if that). 
+
+Below is my DD on the company Hydrograph Clean Power (HGCPF on OTCBB or [HG.CN](http://HG.CN) on Canadian market) supported by snippets from the[ Hydrograph investor presentation. ](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+# What is graphene?
+
+Graphene is an advanced material discovered in 2004 that is [up to 10 atomic layers of carbon (as defined by ISO standards](https://www.thegraphenecouncil.org/page/WhatIsGraphene)) arranged in a honeycomb shape. Being up to 10 atomic layers thick, it is about 100K to 1M times thinner than a sheet of paper. The properties of graphene are:
+
+* Incredibly strong - 200x stronger than steel
+* Flexible can bend and stretch to 120% of original size
+* 10x thermal conductivity of copper
+* 1000x electrical conductivity of copper
+* Electrons can move through it at near light speed
+* Highly transparent
+
+Graphene can be used in it’s pure form however is typically an additive to other materials to improve their properties. 
+
+# Why hasn’t Graphene taken off yet?
+
+* It’s hard to produce at a consistently high quality
+* It’s hard to scale at an affordable cost
+
+* In the time since being discovered as a “wonder material” the industry has been plagued with companies riding the hype and selling poor quality products which has diminished trust in the market. 
+
+This is ChatGPT’s verbatim response regarding why it hasn’t taken off yet
+
+* Scalability of Production: Producing high-quality graphene in large quantities remains technologically challenging and expensive. Methods like chemical vapor deposition produce high-quality graphene but are not cost-effective for large-scale applications.
+* Standardization and Quality Control: There is a lack of standardization in the production of graphene, which results in variations in quality and properties. This inconsistency makes it difficult for industries to rely on graphene for standardized products.
+* Integration into Existing Materials: Incorporating graphene into existing materials and manufacturing processes poses significant challenges. It often requires new techniques and equipment, which can be costly and slow to develop.
+* Economic and Market Factors: The cost-benefit ratio of switching to graphene from less expensive but adequately performing materials is not always favorable. Industries may hesitate to adopt a new material without clear and significant advantages over existing ones.
+* Research and Development Stage: Many of graphene's most promising applications are still in the research and development stage, and transitioning from lab-scale demonstrations to practical, real-world applications takes time and investment.
+
+**Note: the spoiler here is that Hydrograph Clean Power are the only company I have found in 3-4 years of following the industry closely that have solved ALL of these challenges (see more on this below)**
+
+# Market Size
+
+2.5 Billion market by 2028 see [slide 12 of this presentation](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+[See slide 11 of this presentation for the industries that graphene will transform and how it will do so](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+* Just 3% of the $2.5B 2028 market size is $75M
+* Hydrograph is currently at a market cap of $30M US
+* For a fast-growing company in a fast-growing market, 10x revenue is within expectations which means, at 3% market share, in 4 years the company can expect a market cap of $750M i.e. >20x
+* “Significant revenue” has been communicated by Hydrograph as coming in already in 2025 (more on this below). With the start of this growth to commence within months from now (read on for details re: upcoming contracts)
+
+# Hydrograph’s Competitive Advantage
+
+* A study was done relatively recently that tested 300 samples of graphene from different companies and it found that almost none had actual graphene and 0 of the samples had over 60% graphene content. Rather it was fine graphite - see 2:29 of [this video](https://www.youtube.com/watch?v=ZojIexyP-aU&t=1s) for the source. This has changed more recently to a degree but the lack of quality and consistency from competitors has plagued the market
+* Traditional methods of creating graphene (CVD and Chemical Exfoliation) also come with scalability challenges. Hydrograph have a patented process that no-one else can do. This process is via explosion! That’s right. They take acetyline, blow it up in a chamber and graphene is produced. This is such a simple process and enables them to produce 99.8% pure graphene with basically perfect consistency between batches at a low cost.
+* This process does not require graphite as a feedstock does not require wasteful mechanical or chemical processes to create the graphene from graphite. it is the most environmentally sustainable as well. 
+* This process addresses all the key factor that have held graphene back over the years
+* See slide 14 of this presentation for how the [Hydrograph patented technology works](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+* See slide 5 of this presentation for [their competitive advantage](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+
+
+# Partnerships and Collaborations
+
+* They are members of the [GIEC](https://www.graphene.manchester.ac.uk/geic/) - the original global graphene hub based in Manchester
+* They have [signed an MOU with Khalifa university](https://hydrograph.com/khalifa-university-ric2d-hydrograph-clean-power-sign-mou/) - the #1 university in United Arab Emirates
+* The have[ signed a deal with Gulf Cryo ](https://www.gasworld.com/story/gulf-cryo-inks-deal-to-bring-pristine-graphene-to-the-middle-east/2139341.article/)to distribute Hydrograph graphene in to the Middle East
+* They are 1 of only 6 companies worldwide who have passed the strict verification process to be a verified Graphene producer by[ the Graphene Counci](https://www.thegraphenecouncil.org/blogpost/1501180/474262/HydroGraph-Becomes-First-Company-in-Americas-To-Receive-Graphene-Council-s-Verified-Graphene-Producer-Certification)l
+* See[ slides 13 and 24 of this presentation for more](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+# Catalysts
+
+* They are engaged with +40 customers on 20 different applications with 17 testing agreements/NDAs signed
+* They have been focusing on application development in the GEIC primarily since November of last year and because their Graphene is so pure and consistent and at an affordable price compared to competitors, they are performing very well here (i.e. fortune 500 company goes to GEIC, GEIC recommends graphene to try, Hydrograph graphene outperforms, Fortune 500 company progresses into integration and testing phases etc. etc.)
+* Deals with Fortune 500 petrochemical companies are around the corner (communicated to be within around 2-3 months or so from now)[ listen to this interview](https://www.youtube.com/watch?v=0thK4RcZSds) and see image below
+* When a deal is made, it’s typically a very long term deal - when going to market with a product, companies need to spend months on research to find the right graphene, months on integrating the graphene into their product, months for testing then productionising it etc. etc. Once a deal is signed, given the high time and money cost of repeating this process again, it’s typically a very long-term business relationship. 
+* If you haven't read any of the presentation slides yet, [READ SLIDE 21!!! ](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)Potential for 100s of tonnes of graphene deals with major PET companies + tonnage volumes with a large automotive company
+* Also tonnage volumes with a large energy storage company expecte
+
+# Cashflow
+
+* They have just closed a round of funding in June ‘24 (this month). The initial ask for the placement was 1.6M CAD. Due to investor demand [this was upsized to 3.2M](https://finance.yahoo.com/news/hydrograph-announces-upsize-private-placement-122000679.html)! They have mentioned this is expected to be the last round ever to be required as they expect to be cashflow positive in the foreseeable future. 
+* They have just hit the commercial stage of the business. They have been through years of R&D. While R&D will continue, no additional R&D is needed to sell the product. A significant portion of the funds will be for business development and application development to support business development activities. 
+
+For a couple of slides that give a high level overview of why to invest, see slides [4 and 22 of the investor presentation ](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+If you’re interested, my suggestion is to do your own research and watch these videos
+
+[https://www.youtube.com/watch?v=0thK4RcZSds](https://www.youtube.com/watch?v=0thK4RcZSds) 
+
+[https://www.youtube.com/watch?v=ZojIexyP-aU](https://www.youtube.com/watch?v=ZojIexyP-aU) 
+
+[https://www.youtube.com/watch?v=y9kyvMBSgKM](https://www.youtube.com/watch?v=y9kyvMBSgKM) 
+
+and read the whole investor presenation [https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf](https://hydrograph.com/wp-content/uploads/2024/05/HydroGraph-Clean-Power-IR-DECK-June-12-FINAL.pdf)
+
+This is not financial advice, I’m just an investor that feels this is a huge opportunity that is largely still under the radar and seeking to help them gain the exposure that’s warranted.   
+",/r/pennystocks/comments/1dh7xu1/dd_on_28m_usd_mkt_cap_company_leading_25b_by_2028/,0.0,0.0,0.0,1.0
+High-growth penny stocks that can 5-10x in the next few years,20,21,2024-05-23,"Hello! Back again with some more penny stocks DD. I did a ton of research this week and found a good amount of companies with huge growth potential. Shout out to the commenter who mentioned TSSI on one of my previous post, it looks super solid. Please feel free to suggest any tickers you want me to look into! ty in advance and obviously nfa
+
+**TSS, Inc. $TSSI**
+
+Market Cap: 32M
+
+Company Overview:
+
+TSS, Inc., headquartered in Round Rock, Texas, specializes in integrating high-performance computing infrastructure and software for enterprises across the U.S. Founded in 2004, the company operates in two segments: Facilities and Systems Integration. They handle everything from data center design and project management to systems integration and IT procurement, serving clients from big tech companies to government agencies.
+
+Company Highlights:
+
+TSS saw a significant boost in revenue, climbing from $6.6 million in Q1 2023 to $15.9 million in Q1 2024. This 142% increase was driven mainly by their procurement services, which jumped from $1.7 million to $11.6 million.
+
+The company turned its operating loss of $665,000 in Q1 2023 into a profit of $253,000 in Q1 2024. Net income also improved dramatically, moving from a $786,000 loss to a $15,000 profit. This indicates better cost management and operational efficiency.
+
+TSS is ready to take advantage of the growing demand for AI computing solutions. They’ve increased their production capacity to meet this rising need, positioning themselves for further growth in the AI-driven tech environment.
+
+Adjusted EBITDA jumped by 209%, shifting from a loss of $436,000 to a positive $475,000. Gross profit also rose by 61%, from $1.7 million to $2.7 million. These metrics highlight the company’s improved financial health and operational performance.
+
+
+
+**Cathedral Energy Services Ltd. $CETEF $CET.TO**
+
+Market Cap: 225M
+
+Company Overview:
+
+Cathedral Energy Services Ltd., headquartered in Calgary, Canada, provides directional drilling services to oil and natural gas companies in Western Canada and the United States. Founded in 1998, the company offers a range of services and products, including remote directional drilling, measurement-while-drilling (MWD), automated gamma services, drilling optimization, and well planning.
+
+Company Highlights:
+
+Cathedral Energy Services has reported significant revenue growth, with revenues rising from $41 million in 2021 to $545 million in 2023.
+
+Since 2021, Cathedral has completed eight acquisitions, including Rime Downhole Technologies for approximately $54.4 million. These acquisitions have broadened Cathedral's technological capabilities and expanded its footprint in the U.S. market, driving operational growth and integration efficiencies.
+
+Cathedral’s product lineup includes tools that improve drilling efficiency, such as the nDURANCE motors and RapidFire MWD systems. These advanced tools help oil and gas companies drill more effectively, even in difficult environments
+
+The company’s operating income increased from $37.82 million in 2022 to $69.98 million in 2023. Additionally, Cathedral has focused on reducing its net debt, improving financial flexibility and stability, which enhances its capacity to invest in further growth and acquisitions.
+
+Cathedral has expanded its operations in key North American oil and gas regions such as the Permian Basin, Marcellus Shale, and Montney Formation. This strategic focus on high-demand areas positions Cathedral to benefit from ongoing and future drilling activities in these regions.
+
+
+
+**Rush Rare Metals Corp. $RSH.CN**
+
+Market Cap: $5M
+
+Company Overview:  
+Rush Rare Metals Corp., established in October 2021, is a mineral exploration company that fully owns two promising properties: Copper Mountain in Wyoming and the Boxi property in Quebec.  
+
+
+Company Highlights:  
+
+
+At the Boxi property in Quebec, exploration has revealed high niobium concentrations, with samples showing up to 26.9% Nb2O5. Niobium is crucial for manufacturing superconductors, high-strength steel, and lithium-ion batteries, making these findings particularly valuable. (This piqued my interest because niobium discovery led to $WA1 stock going from like $0.14$ to $12 in 2 years.  
+
+
+The Boxi property features a mineralized dyke extending up to 14 km, containing high concentrations of niobium. The exploration team is currently on-site and plans to detail the economic potential of this dyke in the spring, which could significantly boost the property’s value.  
+
+
+Located in Wyoming, Copper Mountain has a rich history of uranium production. Historical estimates suggest substantial uranium resources, with figures ranging from 15.7 million to potentially over 63.8 million pounds of eU3O8, providing a strong foundation for future exploration.  
+
+
+Rush Rare Metals has access to extensive historical data for the Copper Mountain property, including drill logs, geological reports, maps, resource estimations, and geological team memos. This information, gathered from over 2,000 boreholes and detailed exploration by Union Pacific in the 1970s, will guide future exploration and development. The property consists of 110 claims in a prime uranium exploration area, featuring several known historic zones of uranium mineralization and a former mine that produced approximately 500,000 pounds of uranium.",/r/pennystocks/comments/1cz0uar/highgrowth_penny_stocks_that_can_510x_in_the_next/,0.0,0.0,0.0,1.0
+US banned Russian uranium. What US-based companies are you looking at?,6,4,2024-05-15,"Hey everyone, with the new US ban on Russian uranium kicking in, significant changes are likely expected in the nuclear energy sector.  This ban is meant to cut off reliance on Russia, which has been a major supplier, and it seems like it's going to push the development of the nuclear fuel supply chain domestically. Also, there's a serious amount of funding being unlocked, $2.72 billion from Congress to ramp up domestic uranium production. This should really help boost the capacity for companies gearing up to fill the gap left by Russian imports.
+
+Just wondering, what US-based uranium companies are you guys keeping an eye on? I've been following $RSH.CN (Rush Rare Metals). They’ve got this property, Copper Mountain, in Wyoming that's pretty interesting. It’s in a region with a history of uranium production, and they recently expanded their landholdings there. Seems like they could be well-positioned to benefit from the shift to more US-sourced uranium. What do you think? Any other companies out there catching your eye with this new development?",/r/pennystocks/comments/1csu2um/us_banned_russian_uranium_what_usbased_companies/,-0.4588,0.0,0.231,0.769
+Penny stocks that have potential to ripppp - May 2024,26,58,2024-05-09,"Yo- every week I do some penny stock research and have tried posting some of my notes in this subreddit in the past. People have seemed to gain some value from it so here I am again. Please feel free to suggest any companies you want me to check out! KULR was actually suggested ( several times) on one of my last post so ty.
+
+**Kulr Technology Group, Inc $KULR**
+
+Market cap: 79M
+
+Company Overview:
+
+Kulr Technology Group Inc., based in San Diego, California, develops thermal management technologies for various applications, including electronics and batteries. The company’s products are used across several industries such as electric vehicles, energy storage, and telecommunications.
+
+**Highlights:**
+
+In 2023, KULR reported a revenue increase of 146% year-over-year, totalling $9.8 million.
+
+The number of paying customers grew from 36 in 2022 to 53 in 2023
+
+https://preview.redd.it/m9039ab0vgzc1.png?width=563&format=png&auto=webp&s=8e3c1252ae97ff32ca8385aeb90da0284c815d88
+
+KULR offers a range of products, including the KULR ONE platform, thermal runaway shields, and battery safety solutions. Their tech won a NASA Invention of the Year award in 2023.
+
+Solid Partnerships:
+
+H55: KULR received a $1 million order from H55, an electric aviation company
+
+Army DEFCON: The company is developing next-generation battery solutions for military applications under the KULR ONE Guardian project.
+
+Nanoracks: Collaboration with Nanoracks involves providing battery solutions tailored for space applications
+
+The retirement of a significant debt burden in March 2024 has improved the company's financial flexibility and set them to grow and expand operations in 2024
+
+Earnings coming up on May 20th
+
+**Optex Systems Holdings Inc. $OPXS**
+
+Market cap: 54M
+
+Company Overview:
+
+Optex Systems Holdings, Inc. specializes in manufacturing optical sighting systems and assemblies primarily for defence applications but also serves commercial markets. The company's products include periscopes, sighting systems, and other optical devices used on U.S. military vehicles like the Abrams and Bradley tanks and Stryker vehicles. Founded in 1987, Optex Systems Holdings has a significant customer base, including the U.S. Department of Defense and major defence contractors.
+
+**Highlights**
+
+The company has huge contracts with the U.S. Department of Defense and other defence contractors. Major customers include General Dynamics, BAE Systems, and Lockheed Martin, positioning Optex as a key player in the defence sector
+
+https://preview.redd.it/ixiphlo7vgzc1.png?width=725&format=png&auto=webp&s=691ee1be6b944259472f3c52e14fa98742beb50c
+
+Benefits from multi-year defence programs and has seen significant contract awards, such as a $797 million contract from BAE Systems for production related to the Bradley vehicle platform and a major Stryker vehicle order from Bulgaria
+
+Optex Systems has shown consistent revenue growth, increasing from $22.38 million in 2022 to $25.66 million in 2023. This growth is supported by a steady increase in gross profit, which rose from $4.9 million in 2022 to $6.62 million in 2023.
+
+https://preview.redd.it/8af720kavgzc1.png?width=590&format=png&auto=webp&s=50f4a0b18c037631c9096d244addac949494a925
+
+Optex is involved in developing and enhancing optical technologies, such as the new laser filter units and other advanced optical components, which are critical for both current and future defence technologies.
+
+**Rush Rare Metals Corp. $RSH.CN** 
+
+Market cap: $5M
+
+Company Overview:
+
+Rush Rare Metals Corp., established in October 2021, is a mineral exploration company that fully owns two promising properties: Copper Mountain in Wyoming and the Boxi property in Quebec.
+
+**Highlights of Each Property** 
+
+Boxi Property: 
+
+Exploration has revealed significant niobium concentrations, with sample values peaking at 26.9% Nb2O5. This element is crucial for superconductors, high-strength steel, and lithium-ion batteries.
+
+Contains an extensive mineralized dyke (a long, narrow mass of mineral-rich rock exposed at the surface), which stretches up to 14 km and includes highly concentrated niobium samples. The team is actually currently at the Boxi property and plans to reveal significant detail about the overall economic potential of the dyke this spring.
+
+Recently expanded their portfolio by acquiring additional land adjacent to the existing Boxi property, significantly increasing the exploration area and enhancing the potential for new mineral discoveries.
+
+Traces of uranium have also been detected, which could be huge depending on future shifts in regulatory conditions in Quebec
+
+Copper Mountain:
+
+Situated in Wyoming, an area with a historical background in uranium production.
+
+Historical estimates suggest substantial uranium resources, previously estimated to be between 15.7 million to 30.1 million pounds of eU3O8, potentially exceeding 63.8 million pounds.
+
+The property is well-documented with historical drill logs, geological reports, and resource estimations, providing a solid basis for future exploration efforts.
+
+In the 1970s, the property received significant investment, approximately US$78 million from Union Pacific, adjusted for inflation
+
+In the past 2 months, Rush has increased its exploration capacity by acquiring an additional 2,180 acres of land adjacent to Copper Mountain
+
+https://preview.redd.it/gzlproyhvgzc1.png?width=1821&format=png&auto=webp&s=508996a41b30e3a3c4d6b8948e8a3c7dfcbb02a3",/r/pennystocks/comments/1co87kr/penny_stocks_that_have_potential_to_ripppp_may/,0.0,0.0,0.0,1.0
+Why $WA1 stock went from $.14 -> $10 in under 2 years - Niobium market info & opportunities,4,1,2024-04-16,"Hey guys, after hearing of WA1's story, I did a deep dive into what caused it, which happened to be the discovery of niobium deposits at one of their projects. Since I wasn't too familiar with Niobium, I also did a deep dive into its use cases and market size and checked out if any other companies could mimic WA1's story. Actually turned out to be pretty interesting, so I thought I would share. Feel free to share any info you may have
+
+  
+-
+
+Niobium, a chemical element distinguished by its critical applications in modern industries, enhances the strength and performance of industrial steel. Its use extends to constructing superconductors, high-performance engines, and robust structural materials, making it essential in sectors such as aerospace, construction, and transportation.
+
+The niobium market is on a significant upward trajectory. According to a recent market analysis by Mordor Intelligence, the market size of niobium is estimated to be 106.85 kilotons in 2024, with projections to expand to 171.49 kilotons by 2029, representing a CAGR of 9.92% during the forecast period (2024-2029). This growth highlights the increasing demand for niobium, particularly in technologies prioritizing durability, efficiency, and advanced performance.
+
+
+
+**Main Use Cases of Niobium**
+
+Niobium's applications span several critical industries, reflecting its importance and versatility. Here are the primary uses of niobium:
+
+
+
+Aerospace and Automotive Industries
+
+In the aerospace and automotive sectors, niobium is highly valued for its ability to enhance the strength and reduce the weight of steel significantly. Small quantities of niobium (less than 1%) added to steel can yield substantial benefits in terms of structural integrity and economic efficiency. For example, incorporating niobium into the steel used in vehicles can reduce a car's weight by 200 kilograms, improving fuel efficiency by approximately 5%. This reduction in weight directly translates into cost savings and reduced carbon emissions, making niobium an essential material in the pursuit of environmentally friendly and economically viable manufacturing practices.
+
+
+
+Construction and Infrastructure
+
+Niobium's strength-enhancing properties are also crucial in the construction industry. It is used to produce high-strength, low-alloy (HSLA) steels for beams, girders, and other structural components in buildings and bridges. The addition of niobium improves the strength and durability of these materials while allowing for lighter and more sustainable construction practices.
+
+
+
+Energy Sector
+
+In the energy sector, niobium is instrumental in the manufacturing of safer and more durable pipelines. The metal’s properties help prevent ruptures and leaks, which are critical for maintaining the integrity of vast networks of oil and gas pipelines. This use not only enhances safety but also extends the lifespan of these infrastructural elements, reducing maintenance costs and environmental risks.
+
+
+
+Electronics and Energy Storage
+
+One of the most promising areas of niobium application lies in advanced battery technology. Niobium-enhanced lithium-ion batteries, especially those incorporating niobium pentoxide, are setting new standards in battery performance. Here’s how it works: niobium pentoxide is used as a material in the cathode (the component of the battery that stores and releases electricity). Integrating niobium pentoxide helps the cathode manage the flow of electricity more efficiently, resulting in batteries that not only last longer but can also recharge much faster. Recent advancements have led to batteries that can recharge in as little as six minutes, providing up to ten times the lifespan of traditional batteries. These breakthroughs are crucial for industries like electric vehicles, which require dependable, long-lasting energy solutions that can accommodate quick charging times.
+
+
+
+**Current Market Dynamics of Niobium**
+
+The global niobium market is dominated by a few key players and regions, with significant production concentrated primarily in Brazil and Canada.
+
+
+
+Production and Supply
+
+Brazil is the titan of the niobium industry, responsible for about 89% of the world’s total production. The majority of this production comes from the Araxá region, where Companhia Brasileira de Metalurgia e Mineração (CBMM) operates. CBMM alone contributes a substantial share of the global supply, making it the largest niobium producer worldwide. Additionally, China Molybdenum Co. Ltd. operates the Niobium Technology Company (NTC) in Brazil, further cementing the country’s leading position in the Niobium market.
+
+Canada, through the Niobec mine in Quebec, accounts for about 10% of global niobium production. The Niobec mine is notable as it stands as North America’s sole active niobium mine. This highlights the limited niobium activity within the broader North American region, with the United States notably lacking in active niobium mining operations despite having potential reserves.
+
+
+
+**How Niobium Discovery Catapulted WA1's Stock**
+
+The case of WA1's stock can illustrate the potential financial impact of niobium discoveries. In October 2022, WA1 was trading at just $0.14 per share. Following the discovery of significant niobium deposits at their West Arunta project, the stock experienced a meteoric rise, reaching over $10 per share in just over two years. This demonstrates the potential financial returns that can be achieved through successful mineral exploration and development, particularly in the niobium sector.
+
+https://preview.redd.it/mx8tzks92vuc1.png?width=1818&format=png&auto=webp&s=b356a1aa4dee01b169b2120774f5ba3030513b48
+
+
+
+**Emerging Players and Projects in the Niobium Market**
+
+NioCorp Developments at Elk Creek
+
+In the United States, one of the most significant developments in the niobium market is the Elk Creek project in Nebraska, which is being developed by NioCorp Development Ltd ( $NB.TO ). This project is particularly notable as it represents a potential shift in the U.S. niobium industry as it could become the first active niobium production operation in the country since the 1950s. The project has reached advanced stages of development and holds the potential to significantly alter the North American niobium landscape by providing a domestic source of this critical material.
+
+The Boxi Project by Rush Rare Metals
+
+In Canada, the Boxi project by Rush Rare Metals ( $RSH.CN ) represents a notable development in niobium exploration. Located 70 km north of Mont Laurier, Quebec, the Boxi site spans 8,000 hectares and is accessible via established road networks, featuring prominent geological characteristics. This project is characterized by its extensive mineralized dyke (a long, narrow mass of mineral-rich rock exposed at the surface), which stretches up to 14 km and includes highly concentrated niobium samples. Testing of this dyke has revealed niobium concentrations as high as 26.9%, with several samples showing levels of 6.9%. These concentrations are significantly higher than many other known deposits, indicating potential for more efficient niobium extraction processes at the Boxi site.
+
+Hopefully this helps even a few curious people lol",/r/pennystocks/comments/1c5j4v2/why_wa1_stock_went_from_14_10_in_under_2_years/,0.3818,0.133,0.0,0.867
+Three super promising penny stocks I am watching,4,4,2024-04-11,"Yo! I have been posting here lately every week as I do research into penny stocks and share notes on some of my favourites. People have found the info useful so here are some more! Obviously they all have different levels of risk so please do your own research. Feel free to suggest some more you want me to take a look at, BQE was suggest to me by a past commenter!
+
+
+
+
+
+**Nova Cannabis Inc. ($NOVC.V)**
+
+**Market Cap: $96M**
+
+**Company Overview:**
+
+Nova Cannabis Inc. is a Canada-based cannabis retailer focused on the recreational-use cannabis market. The company, headquartered in Edmonton, is a subsidiary of Alcanna Inc. It operates under the Value Buds and Firesale Cannabis brands in Alberta and Ontario, and Sweet Tree Cannabis Co. in Saskatchewan. With approximately 92 locations, Nova Cannabis aims to disrupt the retail cannabis market by offering a range of high-quality cannabis products at competitive prices.
+
+
+
+**Company Highlights**
+
+
+
+* Nova Cannabis achieved its first year of net profit in 2023, a pivotal moment demonstrating the company's capability to translate revenue growth into actual earnings.
+
+
+
+* The company reported a significant 15% increase in annual revenue to $259.3 million in 2023, highlighting its strong market presence and customer appeal.
+
+
+
+* The company saw a 34% improvement in gross margin in Q4 2023 compared to the same quarter in the previous year
+
+
+
+https://preview.redd.it/b8cfro2chvtc1.png?width=769&format=png&auto=webp&s=cd4015e0299d8d027fb3a076c066c4985033db4d
+
+* It has seen a considerable rise in proprietary data licensing sales, which generated $4.2 million in Q4 2023, suggesting a scalable and valuable aspect of the business.
+
+
+
+* As a strategic shareholder in SNDL Inc., a Nasdaq-listed company, Nova Cannabis benefits from expertise in regulated product platforms, encompassing cannabis cultivation, manufacturing, and retail
+
+
+
+
+
+**BQE Water Inc. ($BQE.V)**
+
+**Market Cap: $60M**
+
+**Company Overview:**
+
+BQE Water Inc. is a Canadian company founded in 1997 and headquartered in Vancouver. It specializes in water treatment and management for the mining and metallurgical industry. The company delivers solutions for a wide range of water contaminants, including metals, sulphate, selenium, and cyanide. Their services range from operational support of water treatment plants to selling recovered metals from waste.
+
+
+
+**Company Highlights:**
+
+
+
+* BQE has had consistent top-line growth with a CAGR of 13% in total revenue over the past five years, reflecting expanding market acceptance and business scalability.
+
+
+
+* Also, the company's net income has shown a CAGR of 32% over the past five years, indicating not only revenue growth but also substantial improvements in profitability and operational efficiency.
+
+
+
+* BQE’s strategy has led to a steady rise in recurring revenue, which has grown at a CAGR of 33% over five years, underscoring the company's successful monetization of its intellectual property and customer loyalty.
+
+(Revenue Breakdown: 67% of revenue comes from non-recurring technical services, with the remaining 33% from recurring IP monetization, creating a balanced revenue model.)
+
+
+
+* BQE Water participates in large-scale projects with over $100M in capital expenditures, showcasing its capability to manage and deliver on substantial revenue-generating projects.
+
+
+
+* BQE Water has minimal debt and a solid cash position, with more than $6M in the bank, which puts it in a strong financial position to sustain operations and pursue growth opportunities.
+
+https://preview.redd.it/xpfdb79nhvtc1.png?width=1816&format=png&auto=webp&s=86a7d31516fbb2a2373395a5e3e09d14d09a2130
+
+
+
+**Rush Rare Metals Corp. ($RSH.CN)**
+
+Market Cap: $5M
+
+Company Overview:
+
+Founded in October 2021, Rush Rare Metals Corp. is a Canada-based exploration company focused on minerals crucial to clean energy technologies. It holds 100% ownership in two substantial properties: the Copper Mountain Project in Wyoming, USA, and the Boxi Property in Québec, Canada.
+
+
+
+**Company Highlights**
+
+Boxi Property:
+
+Located near Mont Laurier, Quebec, formerly explored for uranium but is now targeted for niobium potential.
+
+Sample values indicate promising niobium concentrations, with levels reaching up to 26.9% Nb2O5.
+
+Niobium's strategic importance in various industries such as superconductors, high-strength steel, and lithium-ion batteries presents lucrative opportunities.
+
+Significant mineralized dyke with visible pegmatites and notable radiation levels, indicating strong niobium potential.
+
+Consistently anomalous niobium values in recent sampling, with top samples ranging from 6.9% to 1.0% Nb2O5.
+
+Presence of uranium concentrations, suggesting additional mineral potential and possible future policy shifts regarding uranium mining in Quebec.
+
+Copper Mountain Property:
+
+Located in Wyoming, renowned for historic uranium production with substantial potential resources.
+
+Historical data estimates substantial uranium resources between 15.7 million to 30.1 million pounds of eU3O8, with potential exceeding 63.8 million pounds eU3O8.
+
+Solid historical data available, including drill logs, geological reports, and resource estimations, providing a strong foundation for future exploration and development.
+
+Property has attracted significant investment in the past, with Union Pacific investing approximately US$78 million (adjusted for inflation) in the 1970s.
+
+
+
+",/r/pennystocks/comments/1c1ioly/three_super_promising_penny_stocks_i_am_watching/,0.765,0.524,0.0,0.476
+Some solid penny stocks that potential to ripppppp,35,35,2024-04-03,"Yo! Been doing a lot of research trying to find some solid penny stocks and thought I would share some of my notes. Obviously some are riskier than others but you know that already if you are in the penny stock realm. Please feel free to share some stocks that you have been looking at or even comment on any of the companies I provided! Hope this can be of some use to someone
+
+
+
+**Thermal Energy International Inc. $TMG**
+
+Market Cap: $48M 
+
+**Company Overview:**
+
+Thermal Energy International Inc. is an established Canadian clean technology company committed to delivering energy efficiency and carbon emission reduction solutions. Operating across North America and Europe and catering to the global market, the company offers a range of products, including FLU-ACE, HEATSPONGE, and GEM steam traps. With operations based out of Ottawa and Bristol, Thermal Energy International serves a vast array of sectors, notably food and beverage, pharmaceuticals, and hospitals
+
+
+
+**Company Highlights:**
+
+* LTM revenue of $26.1 million, EBITDA of $3.2 million, and Net Income of $2.1 million are the highest in the company's history, indicating a strong growth trajectory
+
+https://preview.redd.it/x5n3rr90pbsc1.png?width=961&format=png&auto=webp&s=fce34bc012eeb93b561d36bc3207356a46709761
+
+* As industries seek to cut carbon emissions, Thermal Energy's cost-effective solutions are well-positioned for increased demand
+
+
+
+* Significant recurring engagements with Fortune 500 and multinational companies, reflecting trust and satisfaction with the company's solutions.
+
+
+
+* Technologies that reclaim up to 80% of energy lost in typical boiler plant and steam system operations, aligning with global energy-saving trends
+
+
+
+* Established presence in North America and Europe, with a scalable model through agents covering other global markets.
+
+
+
+**Gatekeeper Systems Inc. $GSI**
+
+Market Cap: $60M
+
+**Company Overview:**
+
+
+
+Gatekeeper Systems Inc. is an innovator in the field of video security solutions tailored for mobile and extreme environments, primarily in Canada and the United States. Established in 1997 and headquartered in Abbotsford, Canada, the company specializes in a comprehensive suite of products that includes internal and external cameras, mobile data collectors, advanced AI dash cams, wireless systems, and integrated bus operation platforms like CLARITY. Its product lineup serves a range of sectors, including transit, school buses, law enforcement, ambulances, taxis, and general transport. With its commitment to enhancing safety across various transportation modes, Gatekeeper is integrating artificial intelligence and video analytics into intelligent transportation systems within the growing smart city domain.
+
+
+
+**Company Highlights:**
+
+
+
+* Impressive management effectiveness with a Return on Assets (TTM) of 27.78%, Return on Investments (TTM) of 32.45%, and Return on Equity (TTM) of 35.06%
+
+
+
+* Exceptional profitability, including a Gross Margin of 48.11% and Operating Margin of 16.34%
+* A healthy sales backlog indicates potential revenue stability and future growth prospects.
+
+
+
+* Debt-free operation with no borrowed money, paired with a healthy $15.3M working capital, reflecting a strong financial foundation
+
+
+
+* Its Platform-as-a-Service business model signifies a scalable and recurring revenue stream aligning with modern software service trends.
+
+
+
+* Installation base of over 50,000 mobile data collectors and approximately 3,500 customers underscores market penetration and product reliability.
+
+
+
+* Engagement in emerging technology markets such as AI, video analytics, and smart city data solutions, positioning the company at the heart of a growing industry.
+
+https://preview.redd.it/ah6no2o1pbsc1.png?width=1819&format=png&auto=webp&s=97b9220a17aa25aff3214b3251e1efda17ffd5ca
+
+**Earthwise Metals Corp. $WISE.CN**
+
+Market Cap: $500K
+
+**Company Overview:**
+
+
+
+Earthwise Metals is a Canadian exploration company concentrating on the search for gold in the Wilson Project, located in the prolific Abitibi Greenstone Belt. The company is navigating a region that is both historically and currently rich in gold, presenting promising opportunities for investors as gold prices reach unprecedented levels.
+
+
+
+Company Highlights:
+
+
+
+* Earthwise Metals stands on the renowned Abitibi Greenstone Belt, historically responsible for over 300 million ounces of gold output.
+
+
+
+* The company's Wilson Project covers 42 mining claims over an area of 1,660 hectares, with access available throughout the year for exploration activities.
+
+
+
+* Historical exploration efforts have seen an investment of approximately $4.5 million for drilling at the Wilson Project.
+
+
+
+* Earthwise Metals is planning an exploration budget of $600K to $650K for the year 2024 to undertake an extensive 4,000-meter diamond drilling campaign.
+
+
+
+* Previous drilling results have uncovered high-grade gold intervals, including an impressive 83.60 grams per ton over a stretch of 1 meter.
+
+
+
+* Gold Deposit vs Market Cap: With the Toussaint Zone's inferred reserves totalling 187,706 tonnes at an average grade of 7.1 g/t gold, and given the current Canadian gold price of approximately $3100 per ounce, the gross in-situ value of the gold in the deposit could be approximately $142 million.
+
+  
+
+
+**Obviously none of this is financial advice. Please do your own research :)**",/r/pennystocks/comments/1bv331q/some_solid_penny_stocks_that_potential_to_ripppppp/,0.1531,0.186,0.0,0.814
+Solid Penny Stocks to add to your watchlist,36,9,2024-03-25,"Every weekend, I track some of my favourite penny stocks and research new ones that look promising. For the past few weeks, I have been posting my notes here, and people seem to find some value in them. Feel free to share some companies I should check out! 
+
+&#x200B;
+
+&#x200B;
+
+**Enterprise Group, Inc. $E.TO**
+
+**Market Cap:** $50M
+
+**Brief Company Overview**
+
+Enterprise Group, Inc., specializing in equipment and services for the energy, pipeline, and construction sectors, prides itself on its innovation and ""best-in-class"" assets. The company's operational capabilities and strategic acquisitions have secured it a spot as a preferred provider for a blue-chip clientele across Western Canada
+
+&#x200B;
+
+**Company Highlights**
+
+* With $50 million in equipment and property assets, Enterprise Group has a fleet of low-emission mobile power systems and other specialized infrastructure equipment.
+
+&#x200B;
+
+* **Clientele:** Enterprise Group has a diverse range of industry-leading clients ( Chevron, CNQ, Shell,etc) suggesting strong market credibility and reliable demand for its services
+
+&#x200B;
+
+* Management and Directors holding over 35% of shares and the cancellation of approx. 11.3 million shares demonstrate strong insider confidence and commitment to shareholder value.
+
+&#x200B;
+
+* Demonstrating consistent revenue growth with recent figures showing an impressive operating income, indicating solid profitability and operational efficiency.
+
+https://preview.redd.it/9jagoqf97iqc1.png?width=886&format=png&auto=webp&s=7dae4abd8092c10588179695a3f04080fdabcdf9
+
+* The company currently trades below its break-up value, indicating potential undervaluation in the market
+
+&#x200B;
+
+ 
+
+**Grown Rogue International Inc. $GRIN.CN $GRUSF**
+
+**Market Cap:** 111M
+
+**Brief Company Overview**
+
+Grown Rogue specializes in delivering affordable, high-quality craft cannabis nationwide, leveraging efficient cultivation methods and a strategic focus on both indoor and sun-grown products, currently expanding nationwide with a key presence in the Rogue Valley.
+
+&#x200B;
+
+**Company Highlights**
+
+* Achieved three consecutive quarters of record revenue
+
+&#x200B;
+
+* With the DEA considering reclassification of cannabis and the political spotlight on it during an election year, potential regulatory changes could favor Grown Rogue's market positioning
+
+&#x200B;
+
+* Catering to the rising consumer demand for unique and premium cannabis experiences, Grown Rogue is the leader of the craft cannabis trend
+
+https://preview.redd.it/86qxcixc7iqc1.png?width=1190&format=png&auto=webp&s=77da471a4e4b8d0fec95645e02e438c78dd976ac
+
+* Free cash flow positive for the sixth consecutive quarter, despite a large increase in CapEx this quarter as they accelerate their growth in new and existing markets
+* &#x200B;
+* Announced entry into the New Jersey market, with construction underway and on track to be completed in Q2 2024, with sales expected in Q3 2024
+* &#x200B;
+* Also just recently announced entrance into the Illinois market
+
+https://preview.redd.it/u836fm2f7iqc1.png?width=1817&format=png&auto=webp&s=a2d4079f6b259584c92c6a51b3a913d28fd9b850
+
+&#x200B;
+
+ 
+
+**Rush Rare Metals Corp. $RSH.CN**
+
+**Market Cap:** $2M
+
+**Company Overview:**
+
+Rush Rare Metals Corp. is a new entrant in mineral exploration. It owns two promising properties, Copper Mountain in Wyoming and Boxi in Quebec. Established in October 2021, the company aims to explore and develop these properties, focusing on elements critical to high-tech industries.
+
+&#x200B;
+
+**Company Highlights**
+
+* **Boxi Property:** Situated near Mont Laurier in Quebec, the Boxi property has shifted focus from uranium to exploring for niobium, a metal essential for advanced applications such as superconductors and high-strength steel.
+
+&#x200B;
+
+* **Niobium Potential -** Sampling has revealed high niobium concentrations with top values of up to 26.9% Nb2O5, pointing to strong commercial prospects.
+
+&#x200B;
+
+* The Boxi property showcases a significant mineralized dyke with pegmatites and radiation levels indicative of considerable niobium and uranium potential.
+
+&#x200B;
+
+* **Copper Mountain Property:** In Wyoming, known for historic uranium output, this property holds estimated resources ranging from 15.7 to over 63.8 million pounds of eU3O8 based on historical data.
+
+&#x200B;
+
+* The availability of extensive historical data, including drilling logs and resource estimates, lays a solid groundwork for future exploration.
+
+&#x200B;
+
+* The company maintains a clean capital structure, with founders and management heavily invested under a long-term escrow, showcasing their confidence in the company's prospects.
+
+[Sorry for bad graph just trying to show the recent strong price movement](https://preview.redd.it/gni3suph7iqc1.png?width=1820&format=png&auto=webp&s=7a833bb143bcea7f976787f387f00f911260d5cf)
+
+&#x200B;
+
+Obviously NFA! Do your own research ofc",/r/pennystocks/comments/1bnheln/solid_penny_stocks_to_add_to_your_watchlist/,0.1531,0.186,0.0,0.814
+Niobium and Rush Rare Metals Corp Overview CSE: $RSH.CN,5,2,2024-03-22,"&#x200B;
+
+[CSE: $RSH.CN](https://preview.redd.it/ilmz3hp0lwpc1.jpg?width=1600&format=pjpg&auto=webp&s=ca503fcbc4c6e30b8effc18169003d114aadc94e)
+
+ **Rush Rare Metals Corp Overview**
+
+&#x200B;
+
+* **Focus:** Emerging opportunities in REE (Rare Earth Elements) and uranium
+* **Main Assets:** Copper Mountain (uranium) in Wyoming, USA; Boxi Property (niobium) near Mont Laurier, Quebec
+* **Structure:** Excellent, with frugal spending and founders boasting strong resource backgrounds
+* **Reports:** 43-101 reports completed for both Boxi and Copper Mountain Properties, with significant advancements post-reports
+
+### Investment Highlights
+
+&#x200B;
+
+* **REE & Uranium Tailwinds:** Growing demand for uranium and niobium due to expanding applications in industries like electric vehicles and clean energy.
+* **Mining-Friendly Jurisdictions:** Properties in Québec (Boxi) and Wyoming (Copper Mountain), known for their supportive mining environments.
+* **Near-Term Catalysts:** Completion of 43-101 reports for both properties, with significant advancements made thereafter.
+* **Alignment with Shareholders:** Large share percentage held by founders and management.
+* **Experienced Team:** Backgrounds in Myriad Uranium, Great Bear Resources, Jervois Global, and other Canadian junior exploration successes.
+
+### Management & Advisors
+
+&#x200B;
+
+* **Peter Smith (CEO):** Over two decades of experience in public companies, including leadership roles and founding ventures in storage business development.
+* **Nelson Lamb (CFO & Corporate Secretary):** CPA, CA with a strong background in corporate finance and strategic planning.
+* **Michael Raven (Legal Counsel):** Specializes in corporate and securities law, with extensive experience across various industries.
+* **Jody Dahrouge (Technical Advisor):** Professional geologist with over 25 years in minerals and metals exploration.
+* **David Miller (Board Member & Technical Advisor):** Over 40 years in the uranium industry, including positions with AREVA (ORANO) and consulting for the International Atomic Energy Commission (IAEC).
+
+### Properties Overview
+
+#### Copper Mountain Property (Wyoming, USA)
+
+&#x200B;
+
+* Historic uranium producer
+* In earn-in agreement with Myriad Uranium
+* Over 3000 acres, including historical uranium mineralization zones
+* Historic production of 500,000 lbs. eU3O8 at Arrowhead Mine
+* Exploration and business development efforts ongoing
+
+#### Boxi Property (Québec, Canada)
+
+&#x200B;
+
+* High-grade niobium and potential uranium exploration
+* 8,000 hectares, 70 km north of Mont Laurier
+* Mineralized dyke with high-grade niobium and uranium samples
+* Geophysics, exploration, and business development planned for 2024
+
+### Capital Structure (As of March 6, 2024)
+
+&#x200B;
+
+* **Common Shares:** 41,508,249
+* **Warrants:** 4,644,499
+* **Stock Options:** 3,914,000
+* **Agent’s Warrants:** 613,600
+* **Long-term Debt:** Nil
+
+### Graphical Representation
+
+Let's create a graph that summarizes the key data points from the overview above.
+
+&#x200B;
+
+https://preview.redd.it/6s2y2682kwpc1.png?width=2113&format=png&auto=webp&s=ca49f3284ce811497f49e4273b554dfa0f6df291
+
+Here's a graphical representation of the Rush Rare Metals Corp capital structure as of March 6, 2024. It breaks down the number of common shares, warrants, stock options, and agent’s warrants, alongside the absence of long-term debt, illustrating a robust and lean financial foundation conducive to growth and development in the rare metals and uranium sectors.
+
+**A Comparable Niobium asset trading at a much higher evaluation:** 
+
+**WA1 Resources**
+
+https://preview.redd.it/13d4jgf1mwpc1.png?width=238&format=png&auto=webp&s=dc731b0853a025952049f6a5be8ef764750680d8
+
+**What is Niobium:** 
+
+Niobium (Nb) is a critical metal with a range of unique properties that support the transition to a low-carbon economy, making it indispensable across various industries. It's considered a critical mineral by several countries due to the concentrated supply primarily from Brazil, posing supply risk concerns.
+
+Niobium's applications include:
+
+* **Automobiles:** Adding $9 worth of niobium can reduce a car's weight by 100kg, improving fuel efficiency by 5%.
+* **Pipelines:** Enhances strength, safety, and longevity.
+* **Construction:** Used in steels to boost strength and durability, contributing to sustainable construction practices.
+* **Orthopaedics:** Alloys of niobium and titanium are used in medical implants and devices.
+* **Batteries:** Niobium oxides are being explored to significantly cut charging times for electric vehicle batteries and other applications.
+* **Rockets and Satellites:** A vital component in spacecraft; for example, niobium-bearing steel comprised 60% of Apollo 11's structure.
+
+The supply of niobium is highly consolidated, with CBMM leading the global production, responsible for about 80% of the supply. The niobium market is dominated by three major producers, with two located in Brazil and one in Canada, underscoring the concentration of supply risk.
+
+Demand for niobium is predominantly for ferroniobium (FeNb, 65% Nb), which is mainly used as a micro-alloy in steel production. This accounts for about 90% of the 100,000 tons per annum market. Ferroniobium enhances the yield and tensile strength of steel while maintaining its formability and weldability. Even small additions of niobium to steel can significantly increase strength and reduce weight, offering economic and environmental benefits, especially in the construction and automotive industries.
+
+Niobium pentoxide (Nb2O5) is identified as a key growth area, particularly for its application in battery technologies for electric vehicles. Research indicates that niobium in batteries could lead to a tenfold increase in lifespan, reduce charge times to under six minutes, and enhance stability and performance.",/r/pennystocks/comments/1bl21bf/niobium_and_rush_rare_metals_corp_overview_cse/,0.0,0.0,0.0,1.0
+First Tellurium Demonstrates New Thermoelectric Generator,1,2,2024-03-18,"First Tellurium  unveiled its groundbreaking tellurium-based thermoelectric generator, developed by PyroDelta Energy, a 51%-owned R&D company by $[FTEL.CN](https://FTEL.CN) $FSTTF  Watch the video of its recent presentation below in Vancouver, showing the diverse applications. [https://thenewswire.com/preview?id=1A0vFbe44&key=330c6a](https://thenewswire.com/preview?id=1A0vFbe44&key=330c6a)",/r/pennystocks/comments/1bi4a0e/first_tellurium_demonstrates_new_thermoelectric/,0.0,0.0,0.0,1.0
+Top Penny stocks to add to your watchlist Feb 2024,23,24,2024-02-26,"Here's some DD on penny stocks that can potentially bring in nice gains in the long term. Feel free to provide feedback/opinions on any of the picks. 
+
+**Fab-Form Industries Ltd. $FBF.V**
+
+21M Market cap
+
+**Company Overview:**
+
+Fab-Form Industries Ltd is a concrete forming products manufacturer headquartered in Vancouver, BC, Canada. Established in 1986, the company has been at the forefront of inventing, developing, and commercializing innovative foundation products to enhance sustainability and efficiency within the construction industry. Fab-Form's mission is to provide rational and sustainable solutions for the interface between the ground and the various components comprising building structures. As the sole public company specializing in this niche, Fab-Form is committed to introducing groundbreaking products that not only benefit shareholders but also advance the construction sector as a whole.
+
+**Company Highlights**
+
+* **Continuous Innovation**: Fab-Form has a rich history of innovation dating back to its inception. The company has consistently introduced novel products such as Fastfoot fabric formwork for footings, Fast-Tube column forms, Zont Bracing System, and various other patented solutions aimed at revolutionizing concrete forming processes
+* **Strong Management Effectiveness**: The company's management has demonstrated high levels of effectiveness, as evidenced by impressive returns on assets (17.75% TTM), investments (20.90% TTM), and equity (22.21% TTM), surpassing industry benchmarks.
+* **Financial Performance**: Fab-Form has exhibited robust financial performance over the years, with significant revenue growth and healthy gross margins. Despite fluctuations in revenue, the company has maintained a solid balance sheet and has shown strong free cash flow growth in recent quarters.
+* **Share Structure**: Fab-Form boasts a simple and transparent share structure with no preferred shares, warrants, or outstanding options. This provides clarity and stability for investors, fostering confidence in the company's governance and financial management
+* **Diverse Product Portfolio**: The company offers a diverse range of concrete-forming products catering to various segments of the construction industry, including residential, commercial, and industrial projects. From footing forms to column forms and bracing systems, Fab-Form's products address different aspects of concrete construction, enhancing its market presence and revenue streams.
+* **Recent Leadership Change**: Joseph Christian Fearn was appointed as CEO and Vishwanath Kumar as CFO, bringing extensive experience in construction and finance, respectively, enhancing strategic leadership and financial management capabilities
+*  **Positive Industry Outlook**: The construction industry is poised for growth, driven by urbanization, infrastructure development, and increasing demand for sustainable building solutions. Fab-Form's specialized products cater to these evolving needs, positioning the company for long-term success and profitability in a thriving market 
+
+https://preview.redd.it/zatv3ew03zkc1.png?width=1555&format=png&auto=webp&s=f4caad473646ab7a511b928dc98698d0bb2c6571
+
+ **Grown Rogue International Inc. $GRIN.CN $GRUSF**
+
+$116 MC
+
+**Company Overview:**
+
+Grown Rogue specializes in delivering affordable, high-quality craft cannabis nationwide, leveraging efficient cultivation methods and a strategic focus on both indoor and sun-grown products, currently expanding nationwide with a key presence in the Rogue Valley.
+
+https://preview.redd.it/m2yppjr33zkc1.png?width=1190&format=png&auto=webp&s=1acc13eae9154dafe7af994d0dcd3a572a3d6b58
+
+**Company Highlights**
+
+* **Consistent Revenue Growth**: Grown Rogue has demonstrated impressive performance with three consecutive quarters of record revenue.
+* **Regulatory Considerations**: With the DEA possibly considering reclassifying weed, especially amidst an election year, there exists a potential catalyst for favourable regulatory changes that could positively impact Grown Rogue's operations and market prospects.
+* **Market Expansion**: The company has announced its entry into the lucrative New Jersey market, with construction underway and scheduled for completion in Q2 2024. Anticipated sales in Q3 2024 signal a strategic move to tap into new markets and capitalize on emerging opportunities
+* **Rise of Craft Cannabis**: As consumer preferences lean towards unique, high-quality cannabis products and personalized experiences, the demand for craft cannabis continues to surge. Grown Rogue's emphasis on delivering premium offerings aligns with this growing trend, positioning the company for sustained growth and market relevance.
+* **Financial Strength**: Despite significant increases in capital expenditures aimed at accelerating growth, Grown Rogue remains free cash flow positive for the sixth consecutive quarter.
+
+https://preview.redd.it/u682w2q63zkc1.png?width=1552&format=png&auto=webp&s=0c6186a586bc2e1335c8e84a33072da2056958a8
+
+ 
+
+**Lexston Mining Corporation $LEXT.CN $LEXTF**
+
+2.2M Market cap
+
+**Company Overview:**
+
+Lexston Mining Corp. is a Canadian mineral exploration company focused on acquiring and developing mineral projects, with a primary emphasis on uranium exploration. The company operates in the highly prospective Thelon Basin, positioning itself to capitalize on the growing demand for uranium in the global market. Lexston is dedicated to unlocking the vast uranium potential of the Thelon Basin through strategic acquisitions and exploration endeavours.
+
+https://preview.redd.it/r1drkwpa3zkc1.png?width=430&format=png&auto=webp&s=15a2c37f96c96f74eaf1a5c80b346ee8cd8310c4
+
+**Company Highlights**
+
+* **Strategic Positioning**: Positioned in the Thelon Basin, an emerging frontier in uranium exploration, with significant geological similarities to the renowned Athabasca Basin, a leading global high-grade uranium producer.
+* **High Potential Projects**: Lexston's projects, including Project 176 and Project Itza, demonstrate exceptional uranium potential, highlighted by the discovery of high-grade uranium samples and boulders containing up to 38% Uranium. These projects benefit from strategic locations at geological unconformities and reactivated faults, promising uranium deposits akin to renowned sites like Cigar Lake and Key Lake.
+* **Exploration Advancements**: Leveraging advancements in exploration technology and past investments, Lexston aims to unlock new uranium deposits through re-processing of geophysical data, high-resolution surveys, and modern geophysical techniques
+* **Market Demand**: Amidst rising uranium prices and a resurgence in nuclear energy interest globally, Lexston is well-positioned to capitalize on the growing demand for clean energy sources, particularly uranium, as nations seek energy sources independent of volatile regions.
+* **Investment Potentia**l: Despite its modest market capitalization, Lexston presents a compelling investment opportunity, considering its strategic positioning, potential for substantial growth, and the recent staking rush in the Thelon Basin. With over $15M in historical investment and cutting-edge exploration underway, Lexston offers investors a gateway to sustainable energy resources and the potential for substantial returns in the burgeoning uranium market.
+
+&#x200B;
+
+**Of course, none of this is Financial advice. Always do your own research!**",/r/pennystocks/comments/1b0oqof/top_penny_stocks_to_add_to_your_watchlist_feb_2024/,0.2023,0.167,0.0,0.833
+DD on some promising penny stocks to add to the watchlist,5,1,2024-02-07," **Pharmala Biotech Holdings Inc. $MDMA.CN**
+
+$25M MC
+
+* Pharmala Biotech's mission is to provide a consistent and accessible supply of clinical-grade MDMA for scientific research while innovating and enhancing the safety properties of MDXX-class molecules to treat various disorders.
+
+https://preview.redd.it/16ler1dcj7hc1.png?width=1371&format=png&auto=webp&s=6d3e275efaee9ad10edda1cbc9fbc83294a26dfa
+
+* The Psychedelics market in the US is growing with a CAGR of 16.3% in the forecast period of 2020 to 2027. MDMA is the first “psychedelic” molecule likely to be granted
+* regulatory approval as a medicine, having already completed one Phase III trial.
+* Pharmala announced that it has been granted a Controlled Drugs & Substances Dealer’s License (CDSL) by Health Canada, Canada’s federal health regulator
+* there is a global shortage of MDMA to sustain critical research. While MDMA is an off-patent molecule, the process development and regulatory burden for the manufacturing of a controlled substance have significantly narrowed the number of manufacturers. PharmAla Biotech, in concert with their manufacturing partners, is currently the only supplier of MDMA for human use in Canada.
+* Pharmala Biotech is led by a seasoned and capable management team with extensive expertise in biomanufacturing, regulatory affairs, and finance.
+
+&#x200B;
+
+**Grown Rogue International Inc. $GRIN.CN $GRUSF**
+
+$90M MC
+
+Grown Rogue specializes in delivering affordable, high-quality craft cannabis nationwide, leveraging efficient cultivation methods and a strategic focus on both indoor and sun-grown products, currently expanding nationwide with a key presence in the Rogue Valley.
+
+&#x200B;
+
+https://preview.redd.it/gxdm4ujhj7hc1.png?width=1190&format=png&auto=webp&s=ec62574e4a6066306f4e7d0833b606fcaf231e2a
+
+* Three consecutive quarters of record revenue
+* DEA possibly looking into reclassifying weed and with it being an election year it could be something that's used to get votes.
+* Announced entry into the attractive New Jersey market, with construction underway and on track to be completed in Q2 2024, with sales expected in Q3 2024
+* Craft cannabis is on the rise due to growing demand for unique, high-quality products and the preference for premium, personalized experiences in the cannabis market
+* Free cash flow positive for the sixth consecutive quarter, despite a large increase in CapEx this quarter as they accelerate their growth in new and existing markets
+
+&#x200B;
+
+**First Tellurium Corp. $FTEL $FSTTF**
+
+$9M MC
+
+First Tellurium Corp. is North America's only Tellurium-focused exploration company, generating revenue through mineral discovery, project development, and cooperative access to untapped Indigenous territories with a commitment to sustainable exploration.
+
+https://preview.redd.it/yfe7n83oj7hc1.png?width=1433&format=png&auto=webp&s=4ceb089050dbfc839e1dc66bfbd5be486da6c032
+
+Why Tellurium?
+
+• Considered a “Critical Metal” in Canada, US, Australia, UK, India, and SK
+
+• Demand is on the rise as tellurium plays a crucial role in the development of clean energy
+
+• Most important metal for generating electrical power from heat
+
+* They are expected to publish the assay results and data from their 2023 exploration of their promising “Deer Horn” project in February
+* On Jan 31st, FTEL received the prototype of its tellurium-based thermoelectric generator. Developed by the company's 51%-owned R&D subsidiary, the generator holds the potential to revolutionize thermoelectric technology and impact industries such as automotive, solar power, and defence. The reveal will happen sometime in February.
+* They have 2 projects: 
+* Deerhorn: Located in BC, spanning 51.33 sq/km, this property is North America's only gold-silver-tellurium site with an NI 43-101 compliant resource. Containing a 17.5 sq/km mineralized zone with a copper-gold porphyry.
+* Klondike: Situated in Colorado, USA, the property was originally owned by First Solar Inc. (15B Market cap) and was considered to be their top tellurium prospect in the world due to the high grades of up to 3.3% (33,000ppm). FTEL has the option to acquire 100%",/r/pennystocks/comments/1ala2qv/dd_on_some_promising_penny_stocks_to_add_to_the/,0.4019,0.213,0.0,0.787
+Li-FT ($LIFFF) Board of Directors: Leveraging Expertise for Strategic Growth,1,1,2024-01-09,"Morning all! Happy Tuesday - Here is some good, new info on LIFFF. Communicated disclaimer, nfa :)
+
+LIFFF has recently revitalized its board of directors, welcoming three new members who bring a wealth of experience in finance and mining. This shift signifies Li-FT's commitment to driving strategic growth and strengthening its position as a leader in the hard rock lithium exploration sector.
+
+Overview of New Board Members
+
+Eva Bellissimo comes with a prominent legal background, co-leading the Global Metals & Mining Group at McCarthy Tétrault LLP. With over two decades in the mining industry, Eva's expertise extends to legal aspects, financing, cross-border mergers and acquisitions (M&A), and corporate governance. Her influence as a strategic lawyer and advisor is well recognized, being named one of Canada's Top 25 Most Influential Lawyers and holding significant roles, such as chairing the governance committee at I-80 Gold Corp​​.
+
+Paul Gruner is a seasoned executive in the renewable energy, oil and gas, and mining sectors. His extensive experience in Indigenous business leadership is noteworthy, having held CEO positions at the economic arms of the Yellowknives Dene First Nation and the Tahltan Nation. Currently, as CEO for Tłı̨chǫ Investment Corporation, his strategic leadership and business acumen are crucial, especially considering the corporation's proximity to Li-FT's Yellowknife Lithium project​​.
+
+Andree St-Germain, with her role as CFO of Integra Resources Corp, brings a strong finance and mining executive background to the table. Her career, which began in investment banking, includes key positions and achievements, such as playing a pivotal role at Golden Queen Mining during its transition from development to production, and overseeing a major company sale as CFO of Integra Gold. She also serves on the boards of Osisko Mining Corp and Ascot Resources Ltd, evidencing her depth of experience in the sector​​.
+
+Strategic Impact
+
+The arrival of these board members is poised to enhance Li-FT's approach to capital markets, M&A transactions, and corporate governance. Their combined experiences are aligned with Li-FT's ambitions for rapid project development and expansion in the hard rock lithium exploration industry. The CEO of Li-FT, Francis MacDonald, expressed gratitude towards the outgoing board members and highlighted the anticipated contributions of the new appointees to the company's strategic objectives​​.
+
+Conclusion
+
+Li-FT Power Ltd.'s board changes reflect a strategic decision to harness the expertise of individuals with significant experience in finance and mining. The new members are expected to provide fresh perspectives and guidance that will bolster Li-FT's growth trajectory and help navigate the rapidly evolving lithium market.
+
+Main sources - [1](https://www.li-ft.com/), [2](https://finance.yahoo.com/lookup?s=LIFT.CN), [3,](https://www.li-ft.com/investors/overview/) [4](https://stockresearchtoday.com/unlocking-tomorrows-lithium-potential-with-this-hard-rock-pioneer/)",/r/pennystocks/comments/192f6l6/lift_lifff_board_of_directors_leveraging/,0.3818,0.224,0.0,0.776
+$ASRE - Astra Energy Inc. Gearing for Breakout! Major Support holds!,5,1,2023-12-13,"$ASRE - Holding the 200sma 
+
+Continued Accumulation 
+
+Ceo may have hinted they closed transactions last week. Accumulating near 200sma support.
+
+Low Float
+
+Locked up Float 
+
+Squeeze Coming
+
+Any Major Volume will send this. 
+
+[Recent news ](https://preview.redd.it/oisp7qix566c1.png?width=893&format=png&auto=webp&s=52c6e2865ac3bdc9b05c3c324180e16293d3bc5b)
+
+[ASRE Chart](https://preview.redd.it/jfkcaszo566c1.png?width=2048&format=png&auto=webp&s=206c279d17d2c98be6f8215eb5b42c3ec1caa94e)",/r/pennystocks/comments/18hxxjy/asre_astra_energy_inc_gearing_for_breakout_major/,0.6885,0.387,0.0,0.613
+Looking into Canadian lithium companies.,119,9,2023-11-21," Hey lads, been looking into a couple Canadian lithium companies the last little while in $LITM, $[RKL.CN](https://RKL.CN), and $NILI.V. Would love to get some more insights into them. heres a little brief overview of em;
+
+**1. Snow Lake Resources (LTIM)** Listed on Nasdaq under LTIM, Snow Lake Resources is a Canadian lithium developer focusing on the Snow Lake Lithium™ Project in Manitoba. This project, which includes the Thompson Brothers and Grass River projects, covers a large 59,587-acre area but is only 1% explored. Despite limited exploration, it already shows a promising 8.2 million metric tonnes of lithium resources, making it a key player in supplying North American EV and energy storage markets.
+
+**2. Rockland Resources** Rockland Resources, primarily listed on the TSX Venture Exchange and the OTCQX Market in the US, is a Canadian company engaged in mineral exploration, including for lithium in Nevada. Alongside lithium exploration, Rockland owns the Cole Gold Mines property in Ontario, known for high-grade gold in a Red Lake-type deposit. This diverse portfolio highlights Rockland's strategy to provide valuable minerals for various industries.
+
+**3. Surge Battery Metals** Surge Battery Metals, a Canadian mineral exploration company, focuses on sourcing metals for the electric vehicle (EV) market. Surge is actively involved in developing properties rich in battery metals, aligning with the growing demand for EVs. The company's commitment to contributing to the EV supply chain positions it strategically in the battery metals sector.
+
+If you have any other lithium companies i should check out let me know. Any insights into these companies or other companies keep me in the loop.",/r/pennystocks/comments/180s2id/looking_into_canadian_lithium_companies/,0.0,0.0,0.0,1.0
